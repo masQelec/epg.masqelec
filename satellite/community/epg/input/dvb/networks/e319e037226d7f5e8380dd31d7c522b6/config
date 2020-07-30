@@ -1,0 +1,14 @@
+{
+	"networkname": "tdt",
+	"pnetworkname": "INCA",
+	"nid": 0,
+	"autodiscovery": 2,
+	"skipinitscan": true,
+	"idlescan": false,
+	"sid_chnum": false,
+	"ignore_chnum": false,
+	"satip_source": 0,
+	"localtime": 0,
+	"wizard": false,
+	"class": "dvb_network_dvbt"
+}

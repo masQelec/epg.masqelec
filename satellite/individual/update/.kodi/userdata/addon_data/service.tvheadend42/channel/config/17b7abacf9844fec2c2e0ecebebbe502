@@ -1,0 +1,18 @@
+{
+	"enabled": true,
+	"name": "COSMO",
+	"number": 413,
+	"icon": "picon://1_0_1_7730_416_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"9bf923a74f3756e083ad1635bdc40796"
+	],
+	"tags": [
+		"ce97027bb4c575a9d0de5fd5ecb90953",
+		"452c68f5830491b71c052ea8d8d09806"
+	],
+	"bouquet": ""
+}

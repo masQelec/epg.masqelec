@@ -1,0 +1,18 @@
+{
+	"enabled": true,
+	"name": "PLAYBOY TV",
+	"number": 111,
+	"icon": "picon://1_0_1_778B_424_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"63d8f3249c822b529ba7d837f85a38c6"
+	],
+	"tags": [
+		"ce97027bb4c575a9d0de5fd5ecb90953",
+		"185011577b675b3b34bea414e8f88135"
+	],
+	"bouquet": ""
+}

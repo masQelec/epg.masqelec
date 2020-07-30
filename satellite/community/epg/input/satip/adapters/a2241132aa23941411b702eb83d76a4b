@@ -1,0 +1,290 @@
+{
+	"tunercfgu": "DVBS2-4",
+	"tcp_mode": false,
+	"fast_switch": true,
+	"fullmux_ok": true,
+	"sigscale": 240,
+	"pids_max": 32,
+	"pids_len": 127,
+	"pids_deladd": true,
+	"fe": true,
+	"piloton": false,
+	"pids21": false,
+	"skip_ts": 0,
+	"disableworkarounds": false,
+	"device_uuid": "11223344-9999-0000-b7ae-0024a6002fc6",
+	"frontends": {
+		"DVB-S #1": {
+			"udp_rtp_port": 0,
+			"tdelay": 50,
+			"play2": false,
+			"grace_period": 0,
+			"teardown_delay": false,
+			"pass_weight": 1,
+			"specinv": 0,
+			"enabled": true,
+			"priority": 0,
+			"spriority": 0,
+			"displayname": "SAT>IP DVB-S Tuner #1 (192.168.0.14)",
+			"ota_epg": true,
+			"initscan": true,
+			"idlescan": true,
+			"free_weight": 0,
+			"remove_scrambled": false,
+			"linked": "",
+			"type": "DVB-S",
+			"uuid": "0dbc49d6851963b0e726b003108879fe",
+			"satconf": [
+				{
+					"enabled": true,
+					"displayname": "Position #1 (AA)",
+					"priority": 1,
+					"timeout": 10,
+					"position": 1,
+					"network_limit": 0,
+					"network_group": 0,
+					"networks": [
+						"0551105be7ade91d48b48fc4b5c7faa4"
+					]
+				},
+				{
+					"enabled": false,
+					"displayname": "Position #2 (AB)",
+					"priority": 1,
+					"timeout": 10,
+					"position": 2,
+					"network_limit": 0,
+					"network_group": 0,
+					"networks": [
+					]
+				},
+				{
+					"enabled": false,
+					"displayname": "Position #3 (BA)",
+					"priority": 1,
+					"timeout": 10,
+					"position": 3,
+					"network_limit": 0,
+					"network_group": 0,
+					"networks": [
+					]
+				},
+				{
+					"enabled": false,
+					"displayname": "Position #4 (BB)",
+					"priority": 1,
+					"timeout": 10,
+					"position": 4,
+					"network_limit": 0,
+					"network_group": 0,
+					"networks": [
+					]
+				}
+			]
+		},
+		"DVB-S #2": {
+			"udp_rtp_port": 0,
+			"tdelay": 50,
+			"play2": false,
+			"grace_period": 0,
+			"teardown_delay": false,
+			"pass_weight": 1,
+			"specinv": 0,
+			"enabled": true,
+			"priority": 0,
+			"spriority": 0,
+			"displayname": "SAT>IP DVB-S Tuner #2 (192.168.0.14)",
+			"ota_epg": true,
+			"initscan": true,
+			"idlescan": true,
+			"free_weight": 0,
+			"remove_scrambled": false,
+			"linked": "",
+			"type": "DVB-S",
+			"uuid": "26d3933c6be8832e6901a7ae69812362",
+			"satconf": [
+				{
+					"enabled": true,
+					"displayname": "Position #1 (AA)",
+					"priority": 1,
+					"timeout": 10,
+					"position": 1,
+					"network_limit": 0,
+					"network_group": 0,
+					"networks": [
+						"0551105be7ade91d48b48fc4b5c7faa4"
+					]
+				},
+				{
+					"enabled": false,
+					"displayname": "Position #2 (AB)",
+					"priority": 1,
+					"timeout": 10,
+					"position": 2,
+					"network_limit": 0,
+					"network_group": 0,
+					"networks": [
+					]
+				},
+				{
+					"enabled": false,
+					"displayname": "Position #3 (BA)",
+					"priority": 1,
+					"timeout": 10,
+					"position": 3,
+					"network_limit": 0,
+					"network_group": 0,
+					"networks": [
+					]
+				},
+				{
+					"enabled": false,
+					"displayname": "Position #4 (BB)",
+					"priority": 1,
+					"timeout": 10,
+					"position": 4,
+					"network_limit": 0,
+					"network_group": 0,
+					"networks": [
+					]
+				}
+			]
+		},
+		"DVB-S #3": {
+			"udp_rtp_port": 0,
+			"tdelay": 50,
+			"play2": false,
+			"grace_period": 0,
+			"teardown_delay": false,
+			"pass_weight": 1,
+			"specinv": 0,
+			"enabled": true,
+			"priority": 0,
+			"spriority": 0,
+			"displayname": "SAT>IP DVB-S Tuner #3 (192.168.0.14)",
+			"ota_epg": true,
+			"initscan": true,
+			"idlescan": true,
+			"free_weight": 0,
+			"remove_scrambled": false,
+			"linked": "",
+			"type": "DVB-S",
+			"uuid": "9467a9a4577e0ccab3008d752f7df1b0",
+			"satconf": [
+				{
+					"enabled": true,
+					"displayname": "Position #1 (AA)",
+					"priority": 1,
+					"timeout": 10,
+					"position": 1,
+					"network_limit": 0,
+					"network_group": 0,
+					"networks": [
+						"0551105be7ade91d48b48fc4b5c7faa4"
+					]
+				},
+				{
+					"enabled": false,
+					"displayname": "Position #2 (AB)",
+					"priority": 1,
+					"timeout": 10,
+					"position": 2,
+					"network_limit": 0,
+					"network_group": 0,
+					"networks": [
+					]
+				},
+				{
+					"enabled": false,
+					"displayname": "Position #3 (BA)",
+					"priority": 1,
+					"timeout": 10,
+					"position": 3,
+					"network_limit": 0,
+					"network_group": 0,
+					"networks": [
+					]
+				},
+				{
+					"enabled": false,
+					"displayname": "Position #4 (BB)",
+					"priority": 1,
+					"timeout": 10,
+					"position": 4,
+					"network_limit": 0,
+					"network_group": 0,
+					"networks": [
+					]
+				}
+			]
+		},
+		"DVB-S #4": {
+			"udp_rtp_port": 0,
+			"tdelay": 50,
+			"play2": false,
+			"grace_period": 0,
+			"teardown_delay": false,
+			"pass_weight": 1,
+			"specinv": 0,
+			"enabled": true,
+			"priority": 0,
+			"spriority": 0,
+			"displayname": "SAT>IP DVB-S Tuner #4 (192.168.0.14)",
+			"ota_epg": true,
+			"initscan": true,
+			"idlescan": true,
+			"free_weight": 0,
+			"remove_scrambled": false,
+			"linked": "",
+			"type": "DVB-S",
+			"uuid": "3152770db7ad4f7c6a23381233766491",
+			"satconf": [
+				{
+					"enabled": true,
+					"displayname": "Position #1 (AA)",
+					"priority": 1,
+					"timeout": 10,
+					"position": 1,
+					"network_limit": 0,
+					"network_group": 0,
+					"networks": [
+						"0551105be7ade91d48b48fc4b5c7faa4"
+					]
+				},
+				{
+					"enabled": false,
+					"displayname": "Position #2 (AB)",
+					"priority": 1,
+					"timeout": 10,
+					"position": 2,
+					"network_limit": 0,
+					"network_group": 0,
+					"networks": [
+					]
+				},
+				{
+					"enabled": false,
+					"displayname": "Position #3 (BA)",
+					"priority": 1,
+					"timeout": 10,
+					"position": 3,
+					"network_limit": 0,
+					"network_group": 0,
+					"networks": [
+					]
+				},
+				{
+					"enabled": false,
+					"displayname": "Position #4 (BB)",
+					"priority": 1,
+					"timeout": 10,
+					"position": 4,
+					"network_limit": 0,
+					"network_group": 0,
+					"networks": [
+					]
+				}
+			]
+		}
+	}
+}

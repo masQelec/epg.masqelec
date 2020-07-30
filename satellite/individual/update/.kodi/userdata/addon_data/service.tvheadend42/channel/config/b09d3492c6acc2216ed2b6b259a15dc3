@@ -1,0 +1,18 @@
+{
+	"enabled": true,
+	"name": "CANAL ODISEA",
+	"number": 74,
+	"icon": "picon://1_0_1_778A_424_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"4b2a22b28a775160909404941ee64658"
+	],
+	"tags": [
+		"ce97027bb4c575a9d0de5fd5ecb90953",
+		"452c68f5830491b71c052ea8d8d09806"
+	],
+	"bouquet": ""
+}

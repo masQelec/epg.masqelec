@@ -1,0 +1,17 @@
+{
+	"enabled": true,
+	"name": "CUATRO",
+	"number": 402,
+	"icon": "picon://1_0_1_7792_424_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"c0a657d4fc905c08d6275f257c91e08f"
+	],
+	"tags": [
+		"ce97027bb4c575a9d0de5fd5ecb90953"
+	],
+	"bouquet": ""
+}

@@ -1,0 +1,18 @@
+{
+	"enabled": true,
+	"name": "BLAZE",
+	"number": 75,
+	"icon": "picon://1_0_1_772D_416_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"0c0c7a2677a9b4e0d1732e5aecd399c2"
+	],
+	"tags": [
+		"ce97027bb4c575a9d0de5fd5ecb90953",
+		"0ae0f8314cca8f576d0a64faa64e5bfa"
+	],
+	"bouquet": ""
+}

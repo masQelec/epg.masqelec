@@ -1,0 +1,20 @@
+{
+	"enabled": false,
+	"name": "LALIGATVBAR4",
+	"number": 148,
+	"icon": "picon://1_0_1_76A6_41E_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"593a4bfcc751dcc5b4203c4db56f8c50"
+	],
+	"tags": [
+		"452c68f5830491b71c052ea8d8d09806",
+		"d86d48db4ee51e0b44bcfe0cad291e9d",
+		"ce97027bb4c575a9d0de5fd5ecb90953",
+		"d222101ce9563591d59a015a064b4a84"
+	],
+	"bouquet": ""
+}

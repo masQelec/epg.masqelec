@@ -1,0 +1,17 @@
+{
+	"enabled": true,
+	"name": "MULTI-X 1",
+	"number": 173,
+	"icon": "picon://1_0_1_7571_412_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"0ad2a00e7b11a89af190dcf3ea1de48e"
+	],
+	"tags": [
+		"ce97027bb4c575a9d0de5fd5ecb90953"
+	],
+	"bouquet": ""
+}

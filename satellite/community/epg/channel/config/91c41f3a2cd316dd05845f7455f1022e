@@ -1,0 +1,18 @@
+{
+	"enabled": true,
+	"name": "MEZZO LIVE HD",
+	"number": 108,
+	"icon": "picon://1_0_19_7823_428_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"f97fb81b5cff8126d04c6ecee55956c3"
+	],
+	"tags": [
+		"dbe32a006b7a8a3a74051599d15693fe",
+		"9aa877d6624c1999bd7ad2fddf06fe31"
+	],
+	"bouquet": ""
+}

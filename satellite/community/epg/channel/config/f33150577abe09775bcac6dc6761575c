@@ -1,0 +1,18 @@
+{
+	"enabled": true,
+	"name": "DISCOVERY",
+	"number": 73,
+	"icon": "picon://1_0_1_772F_416_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"9f52288d1326822dd0969258979b21d9"
+	],
+	"tags": [
+		"ce97027bb4c575a9d0de5fd5ecb90953",
+		"0ae0f8314cca8f576d0a64faa64e5bfa"
+	],
+	"bouquet": ""
+}

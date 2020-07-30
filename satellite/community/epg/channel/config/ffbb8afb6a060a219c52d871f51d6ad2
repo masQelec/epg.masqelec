@@ -1,0 +1,17 @@
+{
+	"enabled": true,
+	"name": "NICKELODEON",
+	"number": 436,
+	"icon": "picon://1_0_1_772E_416_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"18ba8aef5a04805d6c0b81a4dbfa2776"
+	],
+	"tags": [
+		"ce97027bb4c575a9d0de5fd5ecb90953"
+	],
+	"bouquet": ""
+}

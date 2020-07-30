@@ -1,0 +1,17 @@
+{
+	"enabled": true,
+	"name": "CAZA Y PESCA",
+	"number": 449,
+	"icon": "picon://1_0_1_772B_416_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"0f9ff5b8526a18ce44867faebfb5f28e"
+	],
+	"tags": [
+		"ce97027bb4c575a9d0de5fd5ecb90953"
+	],
+	"bouquet": ""
+}
