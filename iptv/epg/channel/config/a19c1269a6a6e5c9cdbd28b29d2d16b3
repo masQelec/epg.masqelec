@@ -1,0 +1,20 @@
+{
+	"enabled": true,
+	"name": "ALQUILER XY",
+	"number": 172,
+	"icon": "picon://1_0_1_7695_41E_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"7f3239cc23c709916f61ff93b1fb217f"
+	],
+	"tags": [
+		"185011577b675b3b34bea414e8f88135",
+		"ce97027bb4c575a9d0de5fd5ecb90953",
+		"d86d48db4ee51e0b44bcfe0cad291e9d",
+		"452c68f5830491b71c052ea8d8d09806"
+	],
+	"bouquet": ""
+}

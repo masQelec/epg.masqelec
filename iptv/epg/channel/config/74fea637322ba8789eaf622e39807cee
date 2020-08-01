@@ -1,0 +1,20 @@
+{
+	"enabled": true,
+	"name": "LALIGATV BAR",
+	"number": 449,
+	"icon": "picon://1_0_19_7859_41A_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"e8db9b4309bf7e1c0e09f6a7614faa41"
+	],
+	"tags": [
+		"ce97027bb4c575a9d0de5fd5ecb90953",
+		"d86d48db4ee51e0b44bcfe0cad291e9d",
+		"452c68f5830491b71c052ea8d8d09806",
+		"d222101ce9563591d59a015a064b4a84"
+	],
+	"bouquet": ""
+}

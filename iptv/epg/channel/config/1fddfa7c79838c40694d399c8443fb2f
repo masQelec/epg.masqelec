@@ -1,0 +1,20 @@
+{
+	"enabled": true,
+	"name": "BARÇA TV",
+	"number": 69,
+	"icon": "picon://1_0_1_74A0_41C_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"2261fd19f897a3ab856e666492834112"
+	],
+	"tags": [
+		"d222101ce9563591d59a015a064b4a84",
+		"ce97027bb4c575a9d0de5fd5ecb90953",
+		"d86d48db4ee51e0b44bcfe0cad291e9d",
+		"452c68f5830491b71c052ea8d8d09806"
+	],
+	"bouquet": ""
+}

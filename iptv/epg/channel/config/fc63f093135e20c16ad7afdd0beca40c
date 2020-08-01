@@ -1,0 +1,19 @@
+{
+	"enabled": true,
+	"name": "M. DEPORTES1",
+	"number": 428,
+	"icon": "picon://1_0_1_7739_416_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"b9e3a7cfcae07925fbb3041cf17b0fc3"
+	],
+	"tags": [
+		"ce97027bb4c575a9d0de5fd5ecb90953",
+		"d86d48db4ee51e0b44bcfe0cad291e9d",
+		"d222101ce9563591d59a015a064b4a84"
+	],
+	"bouquet": ""
+}

@@ -1,0 +1,19 @@
+{
+	"enabled": true,
+	"name": "CUATRO HD",
+	"number": 4,
+	"icon": "picon://1_0_19_7535_426_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"683179a2b4a0063b7fc12ccabbc50209"
+	],
+	"tags": [
+		"452c68f5830491b71c052ea8d8d09806",
+		"d86d48db4ee51e0b44bcfe0cad291e9d",
+		"dbe32a006b7a8a3a74051599d15693fe"
+	],
+	"bouquet": ""
+}

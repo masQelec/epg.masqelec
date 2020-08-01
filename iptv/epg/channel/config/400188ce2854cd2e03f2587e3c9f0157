@@ -1,0 +1,19 @@
+{
+	"enabled": true,
+	"name": "BBC World News Europe HD",
+	"number": 113,
+	"icon": "picon://1_0_19_1389_3EA_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"67ebe4f661e2599ee1513a8139dd41cd"
+	],
+	"tags": [
+		"dbe32a006b7a8a3a74051599d15693fe",
+		"d86d48db4ee51e0b44bcfe0cad291e9d",
+		"452c68f5830491b71c052ea8d8d09806"
+	],
+	"bouquet": ""
+}
