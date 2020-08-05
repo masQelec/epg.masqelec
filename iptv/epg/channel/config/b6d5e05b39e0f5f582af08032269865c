@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/multideporte.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"c9fc8e616610ee9c9dc1dd534db16c79"
+	],
+	"tags": [
+		"223bffbb73f55491590cdfad14ead1ec"
+	],
+	"bouquet": ""
+}

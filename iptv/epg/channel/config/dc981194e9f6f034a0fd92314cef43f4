@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/skysport1hd.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"b3524640e07a14a4dcb1b57c576826c1"
+	],
+	"tags": [
+		"19cc71b7c6a7b034a78164c3a5cacc27"
+	],
+	"bouquet": ""
+}

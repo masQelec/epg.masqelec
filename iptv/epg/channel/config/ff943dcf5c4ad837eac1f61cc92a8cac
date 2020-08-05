@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/blaze.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"fe213117cff8c608301a7a7199dd8ca5"
+	],
+	"tags": [
+		"c5028be0e994b4c9f7ddbf00ca327c1f"
+	],
+	"bouquet": ""
+}

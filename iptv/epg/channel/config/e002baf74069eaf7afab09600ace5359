@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/mdeportes1.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"13bf8a3b42b7b51ce412bc2a3033380b"
+	],
+	"tags": [
+		"223bffbb73f55491590cdfad14ead1ec"
+	],
+	"bouquet": ""
+}

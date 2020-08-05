@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/cazaypescahd.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"e919c0a54d6d9b2d30df6d12b3a81a7f"
+	],
+	"tags": [
+		"223bffbb73f55491590cdfad14ead1ec"
+	],
+	"bouquet": ""
+}

@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/mligadecampeones8hd.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"812cd4c68ad4f121077d681e5ffc183f"
+	],
+	"tags": [
+		"223bffbb73f55491590cdfad14ead1ec"
+	],
+	"bouquet": ""
+}

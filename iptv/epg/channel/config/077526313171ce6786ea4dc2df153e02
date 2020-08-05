@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/sundancetv.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"a364bfe0699f3e14f3d180bb9be42b94"
+	],
+	"tags": [
+		"aa7e8fcc62821dacf5612015f13a5fe3"
+	],
+	"bouquet": ""
+}

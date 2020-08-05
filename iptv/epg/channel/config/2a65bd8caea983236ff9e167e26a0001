@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/mestrenoshd.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"933e9c7a7934e775546307554478a6c5"
+	],
+	"tags": [
+		"aa7e8fcc62821dacf5612015f13a5fe3"
+	],
+	"bouquet": ""
+}

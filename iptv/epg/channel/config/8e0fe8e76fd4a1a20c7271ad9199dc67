@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/barcatvhd.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"6e9f17e28477fc9dfd0f12e5435d7d14"
+	],
+	"tags": [
+		"223bffbb73f55491590cdfad14ead1ec"
+	],
+	"bouquet": ""
+}

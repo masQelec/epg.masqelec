@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/mcineespanol.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"f7851aa1c6e2acc2c8acc545e590bfd0"
+	],
+	"tags": [
+		"eb16ec7376f9738a68c04b0fadba7294"
+	],
+	"bouquet": ""
+}

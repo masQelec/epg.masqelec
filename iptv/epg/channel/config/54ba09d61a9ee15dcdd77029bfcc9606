@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/foxlifehd.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"dd85c98c405b0b4b65968e1dcfca58d3"
+	],
+	"tags": [
+		"30e8c3737c03d09fe85fc75b7b769ca8"
+	],
+	"bouquet": ""
+}

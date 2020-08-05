@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/mlaliga2.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"340980101118b070892e0b43e0251b8b"
+	],
+	"tags": [
+		"eb16ec7376f9738a68c04b0fadba7294"
+	],
+	"bouquet": ""
+}

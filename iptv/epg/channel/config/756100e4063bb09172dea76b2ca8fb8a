@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/mtvespana.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"7eb797e5d15db2c1bdabd79cb6b78f14"
+	],
+	"tags": [
+		"78eae4cf32dd0261779cf33902ea53c7"
+	],
+	"bouquet": ""
+}

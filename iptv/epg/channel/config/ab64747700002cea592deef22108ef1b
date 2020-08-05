@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/24h.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"7b7cf648f6f7c9210213b327541d7ba4"
+	],
+	"tags": [
+		"4aa3acf9989a6cb732fa7d0c00dd9fba"
+	],
+	"bouquet": ""
+}

@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/discovery.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"d6fd76b68f1cf0ebda927264c8cb9faf"
+	],
+	"tags": [
+		"c5028be0e994b4c9f7ddbf00ca327c1f"
+	],
+	"bouquet": ""
+}

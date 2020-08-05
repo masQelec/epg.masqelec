@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/skysportbundesliga3hd.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"a21726278b3151896c5aca822de04773"
+	],
+	"tags": [
+		"19cc71b7c6a7b034a78164c3a5cacc27"
+	],
+	"bouquet": ""
+}

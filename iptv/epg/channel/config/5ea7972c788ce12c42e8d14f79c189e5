@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/mezzolivehd.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"711e4eea2a913969ac97ba010c661dad"
+	],
+	"tags": [
+		"d30d99056a0b4dfcd1a87ebe45c8d595"
+	],
+	"bouquet": ""
+}

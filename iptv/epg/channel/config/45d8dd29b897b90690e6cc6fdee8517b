@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/nickelodeonhd.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"96f4de5713e70f9cb9326e738f406686"
+	],
+	"tags": [
+		"6bc213b6cb20b974500b44c68584b3b7"
+	],
+	"bouquet": ""
+}

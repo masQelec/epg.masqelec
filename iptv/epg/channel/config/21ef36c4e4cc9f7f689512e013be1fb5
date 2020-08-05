@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/laligatvbar4.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"db7a59572c0ac53243b0de803dcfe8a1"
+	],
+	"tags": [
+		"30e8c3737c03d09fe85fc75b7b769ca8"
+	],
+	"bouquet": ""
+}

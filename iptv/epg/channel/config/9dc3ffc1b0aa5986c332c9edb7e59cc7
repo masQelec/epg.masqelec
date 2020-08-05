@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/clanhd.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"e1bb1da318ba3553449e086ddef3e4fa"
+	],
+	"tags": [
+		"6bc213b6cb20b974500b44c68584b3b7"
+	],
+	"bouquet": ""
+}

@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/paramountnetwork.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"d614be6df17878c06f7197a6e4c73c93"
+	],
+	"tags": [
+		"30e8c3737c03d09fe85fc75b7b769ca8"
+	],
+	"bouquet": ""
+}

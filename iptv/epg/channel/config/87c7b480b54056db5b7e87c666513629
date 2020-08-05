@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/mcinedocandroll.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"0c06cfbd451b2a0b39df26862d104188"
+	],
+	"tags": [
+		"eb16ec7376f9738a68c04b0fadba7294"
+	],
+	"bouquet": ""
+}

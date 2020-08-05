@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/mcomediahd.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"e11e847b534bb2612fa2e47e1fe8e997"
+	],
+	"tags": [
+		"aa7e8fcc62821dacf5612015f13a5fe3"
+	],
+	"bouquet": ""
+}

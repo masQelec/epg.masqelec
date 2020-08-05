@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/aragontvint.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"9185e94ab0fb373c0d3c53ce629e90a4"
+	],
+	"tags": [
+		"30e8c3737c03d09fe85fc75b7b769ca8"
+	],
+	"bouquet": ""
+}

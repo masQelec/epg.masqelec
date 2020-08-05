@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/hollywoodhd.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"cc85afb1a53af00c320ba2366a331575"
+	],
+	"tags": [
+		"aa7e8fcc62821dacf5612015f13a5fe3"
+	],
+	"bouquet": ""
+}

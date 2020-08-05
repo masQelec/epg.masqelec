@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/disneyjr.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"2aef5103099022e0a2c0c204aa88b53b"
+	],
+	"tags": [
+		"6bc213b6cb20b974500b44c68584b3b7"
+	],
+	"bouquet": ""
+}

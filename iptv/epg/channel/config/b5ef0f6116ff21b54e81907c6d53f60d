@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/canalcocina.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"6e220264d990fc9dfac67c052bcb78e3"
+	],
+	"tags": [
+		"67a65b23404e5b195a0efe946c00fb3c"
+	],
+	"bouquet": ""
+}

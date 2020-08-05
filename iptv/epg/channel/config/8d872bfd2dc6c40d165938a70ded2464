@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/energy.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"d5510475f5cd394af087e7d82811256d"
+	],
+	"tags": [
+		"67a65b23404e5b195a0efe946c00fb3c"
+	],
+	"bouquet": ""
+}

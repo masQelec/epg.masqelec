@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/orfsportplushd.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"3a6db2421860e5b452cee0d8eb9f68fd"
+	],
+	"tags": [
+		"19cc71b7c6a7b034a78164c3a5cacc27"
+	],
+	"bouquet": ""
+}

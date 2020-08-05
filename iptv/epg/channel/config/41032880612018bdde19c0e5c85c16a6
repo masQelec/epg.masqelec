@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/babytv.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"62aeb506d12a8c2f205eeb384da6a703"
+	],
+	"tags": [
+		"6bc213b6cb20b974500b44c68584b3b7"
+	],
+	"bouquet": ""
+}

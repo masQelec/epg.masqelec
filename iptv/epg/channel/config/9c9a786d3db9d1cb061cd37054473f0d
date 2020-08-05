@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///storage/picons/tvh/foxnews.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"84959c043373e3bdf906f476896ee649"
+	],
+	"tags": [
+		"4aa3acf9989a6cb732fa7d0c00dd9fba"
+	],
+	"bouquet": ""
+}
