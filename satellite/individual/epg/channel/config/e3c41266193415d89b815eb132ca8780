@@ -1,0 +1,19 @@
+{
+	"enabled": true,
+	"name": "Telecinco",
+	"number": 805,
+	"icon": "file:///picons/Telecinco.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": 1,
+	"services": [
+		"805481645685e686839a6449b935f2be"
+	],
+	"tags": [
+		"fa0254ffc9bdcc235a7ce86ec62b04b1"
+	],
+	"bouquet": ""
+}
+NormandyEPG

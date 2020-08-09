@@ -1,0 +1,19 @@
+{
+	"enabled": true,
+	"name": "Comedy Central",
+	"number": 816,
+	"icon": "picon://1_0_1_76C8_40E_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": 1,
+	"services": [
+		"3b121ee2f0557f2d9f260e04d8f9c20a"
+	],
+	"tags": [
+		"fa0254ffc9bdcc235a7ce86ec62b04b1"
+	],
+	"bouquet": ""
+}
+NormandyEPG

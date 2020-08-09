@@ -1,0 +1,21 @@
+{
+	"enabled": true,
+	"name": "MULTIDEPORTE",
+	"number": 44,
+	"icon": "picon://1_0_1_7692_41E_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": 1,
+	"services": [
+		"22dee3789aa4a821d27081fa8d4bb901"
+	],
+	"tags": [
+		"8e06542863d3606f8a583e43c73580c2",
+		"ac6da31b4882740649cd13bc94f96b1c",
+		"fcc150b1f081f08ad2da9744f3fe3c2e"
+	],
+	"bouquet": ""
+}
+NormandyEPG

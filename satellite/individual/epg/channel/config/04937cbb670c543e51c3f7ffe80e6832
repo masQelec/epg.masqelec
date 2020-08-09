@@ -1,0 +1,20 @@
+{
+	"enabled": true,
+	"name": "Sky Sport Bundesliga 6 HD",
+	"number": 506,
+	"icon": "picon://1_0_19_133_4_85_C00000_0_0_0.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": 1,
+	"services": [
+		"9654ff97fd273c716cbca7cae0a9cf96"
+	],
+	"tags": [
+		"fcc150b1f081f08ad2da9744f3fe3c2e",
+		"ac6da31b4882740649cd13bc94f96b1c"
+	],
+	"bouquet": ""
+}
+NormandyEPG

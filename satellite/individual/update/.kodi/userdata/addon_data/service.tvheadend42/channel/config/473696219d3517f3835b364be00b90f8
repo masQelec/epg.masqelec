@@ -1,0 +1,20 @@
+{
+	"enabled": true,
+	"number": 600,
+	"icon": "picon://1_0_1F_2_40B_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": 1,
+	"services": [
+		"5eeb8b6e95778ab9dbdf90773120fc6f"
+	],
+	"tags": [
+		"3ce4322db2097f2476dd5fc498e4dbe9",
+		"f946536b162c81be4a936f6c4c631b8a",
+		"ac6da31b4882740649cd13bc94f96b1c"
+	],
+	"bouquet": ""
+}
+NormandyEPG
