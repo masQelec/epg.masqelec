@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "M. Estrenos",
+	"name": "M. Estrenos",
+	"names": "\"M. Estrenos\"",
+	"number": 0,
+	"channels": [
+		"46ff7b7b41bd6ae98b19550cddbce719"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

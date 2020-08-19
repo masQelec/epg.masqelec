@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Canal Orbe21",
+	"name": "Canal Orbe21",
+	"names": "\"Canal Orbe21\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/ORBE21.png",
+	"channels": [
+		"2325a12c0f63ae92822f3894c4d22130"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

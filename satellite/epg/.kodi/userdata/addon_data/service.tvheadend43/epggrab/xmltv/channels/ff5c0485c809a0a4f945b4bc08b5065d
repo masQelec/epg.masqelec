@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "LaLiga TV BAR HD",
+	"name": "LaLiga TV BAR HD",
+	"names": "\"LaLiga TV BAR HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/LIGBAR.png",
+	"channels": [
+		"6482d4ab1812a9e418859e46dbac5d28"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

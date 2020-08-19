@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "DAZN 1 Bar HD",
+	"name": "DAZN 1 Bar HD",
+	"names": "\"DAZN 1 Bar HD\"",
+	"number": 0,
+	"channels": [
+		"5673d2cc10a134e807b7c03dfcd005b5"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Fox News",
+	"name": "Fox News",
+	"names": "\"Fox News\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/FOXNWS.png",
+	"channels": [
+		"80962db9e70196a4180d17637a645177"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

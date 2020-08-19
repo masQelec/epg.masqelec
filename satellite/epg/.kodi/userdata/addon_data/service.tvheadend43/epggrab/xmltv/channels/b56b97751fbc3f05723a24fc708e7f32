@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Sky Sport 6 HD",
+	"name": "Sky Sport 6 HD",
+	"names": "\"Sky Sport 6 HD\"",
+	"number": 0,
+	"channels": [
+		"f5da0e2fa432609b96f6779546dd2128"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

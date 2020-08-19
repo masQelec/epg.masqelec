@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Classica",
+	"name": "Classica",
+	"names": "\"Classica\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/CLASSD.png",
+	"channels": [
+		"1a7c2ebc39bc2794022ed4a7b38ebf97"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

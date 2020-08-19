@@ -1,0 +1,13 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Eurosport 2 De",
+	"name": "Eurosport 2 De",
+	"names": "\"Eurosport 2 De\"",
+	"number": 0,
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

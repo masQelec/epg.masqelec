@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "SYFY HD",
+	"name": "SYFY HD",
+	"names": "\"SYFY HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/SCI-FI.png",
+	"channels": [
+		"5e897af391d525ed15e5420ebc5dba55"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

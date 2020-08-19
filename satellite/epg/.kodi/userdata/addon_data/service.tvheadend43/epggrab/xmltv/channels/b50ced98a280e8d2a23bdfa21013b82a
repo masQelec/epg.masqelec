@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Extremadura SAT",
+	"name": "Extremadura SAT",
+	"names": "\"Extremadura SAT\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/EXTREM.png",
+	"channels": [
+		"1fe02b74dc102beedb44d876cae1c25e"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

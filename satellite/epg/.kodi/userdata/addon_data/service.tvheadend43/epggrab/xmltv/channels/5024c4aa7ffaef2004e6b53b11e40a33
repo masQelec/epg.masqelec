@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "8 tv",
+	"name": "8 tv",
+	"names": "\"8 tv\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/8TV.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "MTV HD De",
+	"name": "MTV HD De",
+	"names": "\"MTV HD De\"",
+	"number": 0,
+	"channels": [
+		"8da2d98ff78342408bfa143cc15cd46a"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Divinity",
+	"name": "Divinity",
+	"names": "\"Divinity\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/DIVINI.png",
+	"channels": [
+		"d479904adddb3c4be92add31fadc1e99"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

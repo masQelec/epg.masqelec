@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Viajar",
+	"name": "Viajar",
+	"names": "\"Viajar\"",
+	"number": 0,
+	"channels": [
+		"833a66b57428e6f0856657954e44030c"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

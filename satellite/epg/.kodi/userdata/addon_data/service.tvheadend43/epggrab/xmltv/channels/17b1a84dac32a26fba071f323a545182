@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Los40",
+	"name": "Los40",
+	"names": "\"Los40\"",
+	"number": 0,
+	"icon": "https://play.los40.com/build/assets/los40espana/img/logo.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "RT HD",
+	"name": "RT HD",
+	"names": "\"RT HD\"",
+	"number": 0,
+	"channels": [
+		"503ea469c2393e1f747bea803d96696c"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

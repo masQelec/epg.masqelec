@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "ETB 2 HD",
+	"name": "ETB 2 HD",
+	"names": "\"ETB 2 HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/ETB2.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

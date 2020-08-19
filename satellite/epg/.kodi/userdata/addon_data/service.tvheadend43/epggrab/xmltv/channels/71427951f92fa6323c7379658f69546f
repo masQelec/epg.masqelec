@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Sky Sport 4 HD",
+	"name": "Sky Sport 4 HD",
+	"names": "\"Sky Sport 4 HD\"",
+	"number": 0,
+	"channels": [
+		"6a58df0442918480be2a3f43814854f9"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

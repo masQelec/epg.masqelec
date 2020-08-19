@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Sky Sport News",
+	"name": "Sky Sport News",
+	"names": "\"Sky Sport News\"",
+	"number": 0,
+	"channels": [
+		"0330232dfa50be9e26f0863f754c0d47"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "M. Cine Español",
+	"name": "M. Cine Español",
+	"names": "\"M. Cine Español\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/DCESP.png",
+	"channels": [
+		"553798dbd757d6af03b8f2241cb282de"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

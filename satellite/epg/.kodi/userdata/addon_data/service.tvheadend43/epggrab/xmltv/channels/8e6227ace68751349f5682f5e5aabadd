@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "LaLiga TV BAR 4",
+	"name": "LaLiga TV BAR 4",
+	"names": "\"LaLiga TV BAR 4\"",
+	"number": 0,
+	"channels": [
+		"ee79d23f94a1652f20800969c6717303"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

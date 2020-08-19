@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Telesur HD",
+	"name": "Telesur HD",
+	"names": "\"Telesur HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/TLESUR.png",
+	"channels": [
+		"85e3ee59a310f8ecfd93ad965c2750c6"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

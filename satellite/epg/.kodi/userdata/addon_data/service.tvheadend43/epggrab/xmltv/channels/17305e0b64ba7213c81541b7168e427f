@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "M. Liga de Campeones 7",
+	"name": "M. Liga de Campeones 7",
+	"names": "\"M. Liga de Campeones 7\"",
+	"number": 0,
+	"channels": [
+		"c40f7f425bf4440ebe8b6ed64802aea4"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

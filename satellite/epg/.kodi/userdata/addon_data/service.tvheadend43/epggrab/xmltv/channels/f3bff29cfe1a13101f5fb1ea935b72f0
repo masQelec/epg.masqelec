@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Sky Sport 5",
+	"name": "Sky Sport 5",
+	"names": "\"Sky Sport 5\"",
+	"number": 0,
+	"channels": [
+		"ea77bbe461fc05c8fc7434c8dad5a92e"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Eurosport 1 HD De",
+	"name": "Eurosport 1 HD De",
+	"names": "\"Eurosport 1 HD De\"",
+	"number": 0,
+	"channels": [
+		"ce42031cb2c838058438015875f88f3a"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Multideporte",
+	"name": "Multideporte",
+	"names": "\"Multideporte\"",
+	"number": 0,
+	"channels": [
+		"f3551cd152fb8c4b649e979c0beb5aa0"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

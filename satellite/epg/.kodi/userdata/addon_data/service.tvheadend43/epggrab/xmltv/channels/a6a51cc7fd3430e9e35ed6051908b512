@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Dial",
+	"name": "Dial",
+	"names": "\"Dial\"",
+	"number": 0,
+	"icon": "https://play.cadenadial.com/build/assets/cadenadialespana/img/logo.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

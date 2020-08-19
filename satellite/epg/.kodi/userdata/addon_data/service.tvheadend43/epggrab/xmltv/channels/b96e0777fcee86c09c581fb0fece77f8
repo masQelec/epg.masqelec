@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Sky Sport Bundesliga 8",
+	"name": "Sky Sport Bundesliga 8",
+	"names": "\"Sky Sport Bundesliga 8\"",
+	"number": 0,
+	"channels": [
+		"c279a18cc7967e92109a853162bf78d7"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

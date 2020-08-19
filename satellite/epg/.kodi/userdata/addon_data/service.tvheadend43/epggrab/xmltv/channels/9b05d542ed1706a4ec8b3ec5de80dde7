@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "AXN White HD",
+	"name": "AXN White HD",
+	"names": "\"AXN White HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/SET.png",
+	"channels": [
+		"1d859e31fd81a4334789ad307d36ded0"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

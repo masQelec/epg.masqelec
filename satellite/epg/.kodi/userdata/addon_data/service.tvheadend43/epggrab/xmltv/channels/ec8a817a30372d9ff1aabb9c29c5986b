@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Cuatro",
+	"name": "Cuatro",
+	"names": "\"Cuatro\"",
+	"number": 0,
+	"channels": [
+		"e9802a26b44c8b30cb737186e62ccfb7"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

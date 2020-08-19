@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "SYFY",
+	"name": "SYFY",
+	"names": "\"SYFY\"",
+	"number": 0,
+	"channels": [
+		"83f86120f179cc27c22a246f215c1439"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

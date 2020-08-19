@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Eurosport 1 HD",
+	"name": "Eurosport 1 HD",
+	"names": "\"Eurosport 1 HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/ESP.png",
+	"channels": [
+		"ba4c5913b626b81479105594cf9210cf"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

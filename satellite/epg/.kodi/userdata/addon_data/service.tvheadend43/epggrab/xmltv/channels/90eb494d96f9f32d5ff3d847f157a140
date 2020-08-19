@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Barça TV",
+	"name": "Barça TV",
+	"names": "\"Barça TV\"",
+	"number": 0,
+	"channels": [
+		"7e3598ef9ee50f8ac7a78c4da88f4a3f"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

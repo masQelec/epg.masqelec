@@ -1,0 +1,99 @@
+#!/bin/sh
+#Normandy
+#XMLTV_TYPE="WEB"
+XMLTV_TYPE="NORMANDY"
+XMLTV_LOCATION_FILE=""
+XMLTV_LOCATION_WEB="https://github.com/NormandyEPG/XMLTV-NormandyEPG/raw/master/xmltvb.xml.gz"
+
+# Normandy
+NORMANDY_VALIDACION_URL="https://normandy.es/txemoto_scripts/untvh.pyo"
+NORMANDY_VALIDACION_FICHERO="untvh.pyo"
+NORMANDY_ZIP_URL="http://normandy.es/files/xmltvb.xml.zip"
+NORMANDY_FICHERO_XML="xmltvb.xml"
+NORMANDY_CARPETA_TEMPORAL="/tmp/"
+NORMANDY_CARPETA_SCRIPTS="/storage/.config/scripts/"
+
+dflag=
+vflag=
+cflag=
+
+# Comprobamos si tenemos instalado el wget-ssl
+[ -f /storage/.opt/bin/wget ] && ncert="--no-check-certificate"
+
+if [ $# -lt 1 ]; then
+
+  if [ "$XMLTV_TYPE" = "FILE" ]; then
+
+    
+    cat "$XMLTV_LOCATION_FILE"
+    exit 0
+
+  elif [ "$XMLTV_TYPE" = "WEB" ]; then
+      wget -qO - "$XMLTV_LOCATION_WEB" | zcat
+    exit 0
+	
+  elif [ "$XMLTV_TYPE" = "NORMANDY" ]; then
+  
+	# Normandy. Borramos los ficheros
+	rm -f "$NORMANDY_CARPETA_TEMPORAL$NORMANDY_FICHERO_XML.zip $NORMANDY_CARPETA_TEMPORAL$NORMANDY_FICHERO_XML.gz $NORMANDY_CARPETA_TEMPORAL$NORMANDY_VALIDACION_FICHERO"
+	
+	# Descargamos el validador
+	if wget ${ncert} -qO "$NORMANDY_CARPETA_TEMPORAL$NORMANDY_VALIDACION_FICHERO" $NORMANDY_VALIDACION_URL; then
+		# Descargado el validador
+		if wget ${ncert} -qO "$NORMANDY_CARPETA_TEMPORAL$NORMANDY_FICHERO_XML.zip" $NORMANDY_ZIP_URL; then
+			# Descargado el zip
+			if python $NORMANDY_CARPETA_TEMPORAL$NORMANDY_VALIDACION_FICHERO "$NORMANDY_CARPETA_TEMPORAL$NORMANDY_FICHERO_XML.zip" $NORMANDY_CARPETA_TEMPORAL; then
+				# Descompresión OK
+				zcat "$NORMANDY_CARPETA_TEMPORAL$NORMANDY_FICHERO_XML.gz"
+				rm -f "$NORMANDY_CARPETA_TEMPORAL$NORMANDY_FICHERO_XML.zip $NORMANDY_CARPETA_TEMPORAL$NORMANDY_FICHERO_XML.gz $NORMANDY_CARPETA_TEMPORAL$NORMANDY_VALIDACION_FICHERO"
+				exit 0
+			else
+				echo "Descompresión incorrecta"
+			fi
+		else
+			echo "Descargar de zip incorrecta"
+		fi
+	else
+		echo "Descargar de validador incorrecta"
+	fi
+	exit 1
+  fi
+fi
+
+for arg; do
+    delim=""
+    case "$arg" in
+    #translate --gnu-long-options to -g (short options)
+       --description) args="${args}-d ";;
+       --version) args="${args}-v ";;
+       --capabilities) args="${args}-c ";;
+       #pass through anything else
+       *) [[ "${arg:0:1}" == "-" ]] || delim="\""
+           args="${args}${delim}${arg}${delim} ";;
+    esac
+done
+
+#Reset the positional parameters to the short options
+eval set -- $args
+
+while getopts "dvc" option; do
+    case $option in
+        d)  dflag=1;;
+        v)  vflag=1;;
+        c)  cflag=1;;
+        \?) echo "unknown option: -%s\n" $OPTARG
+            echo "Usage: %s: [--description] [--version] [--capabilities] \n" $(basename $0)
+            exit 2
+            ;;
+    esac >&2
+done
+
+if [ "$dflag" ]; then
+   echo "España-masQelec-EPG"
+fi
+if [ "$vflag" ]; then
+   echo "0.1"
+fi
+if [ "$cflag" ]; then
+   echo "baseline"
+fi

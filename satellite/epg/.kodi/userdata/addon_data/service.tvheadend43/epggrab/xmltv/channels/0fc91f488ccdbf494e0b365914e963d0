@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Sky Sport Bundesliga 3 HD",
+	"name": "Sky Sport Bundesliga 3 HD",
+	"names": "\"Sky Sport Bundesliga 3 HD\"",
+	"number": 0,
+	"channels": [
+		"8fdd0e655860337c141f6a2ae08be861"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

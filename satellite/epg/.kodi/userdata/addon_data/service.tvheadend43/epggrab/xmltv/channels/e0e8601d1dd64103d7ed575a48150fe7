@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Sky Sport Bundesliga 10",
+	"name": "Sky Sport Bundesliga 10",
+	"names": "\"Sky Sport Bundesliga 10\"",
+	"number": 0,
+	"channels": [
+		"3569bb62ce10aebfac9f59527d6c1111"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

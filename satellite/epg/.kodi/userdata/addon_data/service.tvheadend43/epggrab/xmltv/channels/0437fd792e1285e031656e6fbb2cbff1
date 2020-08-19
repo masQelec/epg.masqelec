@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "M. LaLiga",
+	"name": "M. LaLiga",
+	"names": "\"M. LaLiga\"",
+	"number": 0,
+	"channels": [
+		"b5dd2d97f774efc19c24959fef661371"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

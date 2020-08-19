@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "M. Liga de Campeones 4 HD",
+	"name": "M. Liga de Campeones 4 HD",
+	"names": "\"M. Liga de Campeones 4 HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP4.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Sky Sport Bundesliga 9",
+	"name": "Sky Sport Bundesliga 9",
+	"names": "\"Sky Sport Bundesliga 9\"",
+	"number": 0,
+	"channels": [
+		"2b380ddfecd064680f8cd96f47cb74eb"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

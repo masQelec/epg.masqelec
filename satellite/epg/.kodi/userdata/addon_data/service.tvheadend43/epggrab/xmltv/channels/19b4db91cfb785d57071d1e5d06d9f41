@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Arirang TV",
+	"name": "Arirang TV",
+	"names": "\"Arirang TV\"",
+	"number": 0,
+	"channels": [
+		"0c4e810a7ed5724e6c0397aff7e17410"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

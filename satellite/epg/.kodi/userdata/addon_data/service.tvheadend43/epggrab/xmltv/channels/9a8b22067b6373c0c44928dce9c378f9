@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "TCM",
+	"name": "TCM",
+	"names": "\"TCM\"",
+	"number": 0,
+	"channels": [
+		"7c277d2dfc7fa870e676ac0118faeb6a"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "M. Liga de Campeones 4",
+	"name": "M. Liga de Campeones 4",
+	"names": "\"M. Liga de Campeones 4\"",
+	"number": 0,
+	"channels": [
+		"bdf01dd9ea5aff202ab000d1cc2d1048"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

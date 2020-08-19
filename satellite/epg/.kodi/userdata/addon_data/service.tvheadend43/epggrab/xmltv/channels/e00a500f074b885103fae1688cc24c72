@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "La 1",
+	"name": "La 1",
+	"names": "\"La 1\"",
+	"number": 0,
+	"channels": [
+		"16b793b586f6496bdff15163b42b77eb"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

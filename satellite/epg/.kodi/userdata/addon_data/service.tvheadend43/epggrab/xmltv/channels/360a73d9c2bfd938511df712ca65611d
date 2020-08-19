@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Alquiler 3",
+	"name": "Alquiler 3",
+	"names": "\"Alquiler 3\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/TQ3.png",
+	"channels": [
+		"94124a4f9fe771a5cd03c20f46890844"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

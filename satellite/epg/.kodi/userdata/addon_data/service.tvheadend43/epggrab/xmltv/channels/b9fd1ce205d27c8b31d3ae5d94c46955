@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Sky Sport 2 HD",
+	"name": "Sky Sport 2 HD",
+	"names": "\"Sky Sport 2 HD\"",
+	"number": 0,
+	"channels": [
+		"972c71162e0db33b74ae761f460da372"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

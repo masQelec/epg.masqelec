@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "#Vamos BAR 1 HD",
+	"name": "#Vamos BAR 1 HD",
+	"names": "\"#Vamos BAR 1 HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/VAM1HO.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

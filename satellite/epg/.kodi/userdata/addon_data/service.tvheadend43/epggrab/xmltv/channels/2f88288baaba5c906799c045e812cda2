@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "M. Liga de Campeones 2 HD",
+	"name": "M. Liga de Campeones 2 HD",
+	"names": "\"M. Liga de Campeones 2 HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP2.png",
+	"channels": [
+		"0e0c51f29b55ffd7a4a920b0743d1d64"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Alquiler 4",
+	"name": "Alquiler 4",
+	"names": "\"Alquiler 4\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/TQ4.png",
+	"channels": [
+		"0a90bddfc565f11390ab807795b36521"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

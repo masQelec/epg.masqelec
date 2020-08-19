@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "M. Seriesmania HD",
+	"name": "M. Seriesmania HD",
+	"names": "\"M. Seriesmania HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/MV2.png",
+	"channels": [
+		"14c9b4026680748ce580d592fa9d4241"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

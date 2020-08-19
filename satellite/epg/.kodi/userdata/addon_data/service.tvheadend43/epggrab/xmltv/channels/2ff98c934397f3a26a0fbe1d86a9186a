@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "TVGA HD",
+	"name": "TVGA HD",
+	"names": "\"TVGA HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/TVG.png",
+	"channels": [
+		"4216108a5c808ff04f71de97058d6ad5"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

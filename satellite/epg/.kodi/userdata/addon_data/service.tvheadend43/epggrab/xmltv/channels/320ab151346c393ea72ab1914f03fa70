@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "#0 HD",
+	"name": "#0 HD",
+	"names": "\"#0 HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/MV3.png",
+	"channels": [
+		"e9fbcd41fe4a8007778e580e5c8ebd3c"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

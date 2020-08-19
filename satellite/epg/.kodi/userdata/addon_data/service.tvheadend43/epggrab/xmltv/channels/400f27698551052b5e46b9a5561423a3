@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Iberalia TV",
+	"name": "Iberalia TV",
+	"names": "\"Iberalia TV\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/IBERAL.png",
+	"channels": [
+		"c6ae3a96686e61d7bda7addadf729fd4"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

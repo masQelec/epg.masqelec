@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "M. Golf",
+	"name": "M. Golf",
+	"names": "\"M. Golf\"",
+	"number": 0,
+	"channels": [
+		"2f2ec70d15f2df8b1ad20271ddf94fc4"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

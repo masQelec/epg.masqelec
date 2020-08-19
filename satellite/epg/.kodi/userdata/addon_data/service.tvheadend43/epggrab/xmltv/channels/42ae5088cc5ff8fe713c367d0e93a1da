@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Cuatro HD",
+	"name": "Cuatro HD",
+	"names": "\"Cuatro HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/C4.png",
+	"channels": [
+		"56c9c765d20f40e95f1894aa10fcd04c"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

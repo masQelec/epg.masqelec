@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Viajar HD",
+	"name": "Viajar HD",
+	"names": "\"Viajar HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/VJR.png",
+	"channels": [
+		"72af699c34482000c40d8fa3b808a190"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

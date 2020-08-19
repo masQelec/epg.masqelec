@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "M. Deportes 6",
+	"name": "M. Deportes 6",
+	"names": "\"M. Deportes 6\"",
+	"number": 0,
+	"channels": [
+		"c69fd7c704cddb9e13e130a6cc07a8f4"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "M. LaLiga 8",
+	"name": "M. LaLiga 8",
+	"names": "\"M. LaLiga 8\"",
+	"number": 0,
+	"channels": [
+		"25a963b2451a5f2f2840dfc56d4231ef"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

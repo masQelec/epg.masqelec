@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "TNT",
+	"name": "TNT",
+	"names": "\"TNT\"",
+	"number": 0,
+	"channels": [
+		"ae869e07a5e28a181da583fa42353be5"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

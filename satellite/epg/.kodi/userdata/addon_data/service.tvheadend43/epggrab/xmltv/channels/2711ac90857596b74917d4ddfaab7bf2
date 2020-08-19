@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "M. LaLiga 5 HD",
+	"name": "M. LaLiga 5 HD",
+	"names": "\"M. LaLiga 5 HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG5.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

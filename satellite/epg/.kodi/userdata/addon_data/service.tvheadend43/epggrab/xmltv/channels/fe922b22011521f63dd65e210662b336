@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "BeMad tv HD",
+	"name": "BeMad tv HD",
+	"names": "\"BeMad tv HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/BEMAD.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

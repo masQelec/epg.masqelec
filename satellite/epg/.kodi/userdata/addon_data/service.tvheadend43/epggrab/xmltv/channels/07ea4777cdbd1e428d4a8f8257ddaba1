@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "France 24 (in English)",
+	"name": "France 24 (in English)",
+	"names": "\"France 24 (in English)\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/FRA%20EN.png",
+	"channels": [
+		"ffdf99ec34d5513749e94bb01716425f"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Sky Sport 8",
+	"name": "Sky Sport 8",
+	"names": "\"Sky Sport 8\"",
+	"number": 0,
+	"channels": [
+		"ca1b5eefc36b32c19157542172afa7ac"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

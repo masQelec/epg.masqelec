@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "BeMad tv",
+	"name": "BeMad tv",
+	"names": "\"BeMad tv\"",
+	"number": 0,
+	"channels": [
+		"5ff7040770eeb220d578d6c04f0a5e51"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

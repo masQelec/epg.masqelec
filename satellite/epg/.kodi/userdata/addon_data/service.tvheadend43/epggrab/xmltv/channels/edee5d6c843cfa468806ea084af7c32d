@@ -1,0 +1,13 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "LaLiga TV BAR",
+	"name": "LaLiga TV BAR",
+	"names": "\"LaLiga TV BAR\"",
+	"number": 0,
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

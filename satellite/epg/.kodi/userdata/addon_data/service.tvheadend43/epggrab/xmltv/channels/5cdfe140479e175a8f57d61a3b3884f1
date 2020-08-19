@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "VH1",
+	"name": "VH1",
+	"names": "\"VH1\"",
+	"number": 0,
+	"icon": "http:https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/25/10000165.png",
+	"channels": [
+		"589c53cdcff705bc2381b1e7c2dece95"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

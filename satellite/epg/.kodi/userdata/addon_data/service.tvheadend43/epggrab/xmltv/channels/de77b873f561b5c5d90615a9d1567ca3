@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "M. LaLiga 3 HD",
+	"name": "M. LaLiga 3 HD",
+	"names": "\"M. LaLiga 3 HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG3.png",
+	"channels": [
+		"182a026814bd4a41dea106fd85b5402e"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

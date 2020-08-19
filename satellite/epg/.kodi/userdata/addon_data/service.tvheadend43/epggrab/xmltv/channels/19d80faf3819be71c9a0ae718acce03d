@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Sky Sport Bundesliga 5 HD",
+	"name": "Sky Sport Bundesliga 5 HD",
+	"names": "\"Sky Sport Bundesliga 5 HD\"",
+	"number": 0,
+	"channels": [
+		"ce8bb4b60b69fc521cc9b793fad2e1ec"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

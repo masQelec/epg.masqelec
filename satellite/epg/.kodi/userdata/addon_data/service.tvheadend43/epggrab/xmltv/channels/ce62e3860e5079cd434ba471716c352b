@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "M. LaLiga 2 HD",
+	"name": "M. LaLiga 2 HD",
+	"names": "\"M. LaLiga 2 HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG2.png",
+	"channels": [
+		"2967c22e46e1d432a7d94b28c4080ca8"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

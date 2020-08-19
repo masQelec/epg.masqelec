@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "M. Acción",
+	"name": "M. Acción",
+	"names": "\"M. Acción\"",
+	"number": 0,
+	"channels": [
+		"71c9ea5baf1d7a92a0e9fe99f086bfb5"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

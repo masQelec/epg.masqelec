@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "FDF",
+	"name": "FDF",
+	"names": "\"FDF\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/FDFIC.png",
+	"channels": [
+		"6356eda5900c815a48597932b5ce3073"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

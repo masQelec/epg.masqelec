@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "M. CineDoc&amp;Roll HD",
+	"name": "M. CineDoc&Roll HD",
+	"names": "\"M. CineDoc&Roll HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/CPXTRA.png",
+	"channels": [
+		"b0a0939ae41c1ee5b9d397377e08d633"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

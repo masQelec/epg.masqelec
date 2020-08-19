@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "#Vamos BAR",
+	"name": "#Vamos BAR",
+	"names": "\"#Vamos BAR\"",
+	"number": 0,
+	"channels": [
+		"1b82211c987654a3051f99326531a0f6"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

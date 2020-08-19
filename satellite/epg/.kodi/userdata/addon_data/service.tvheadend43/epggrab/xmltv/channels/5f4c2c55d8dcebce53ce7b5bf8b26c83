@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "RTL UHD",
+	"name": "RTL UHD",
+	"names": "\"RTL UHD\"",
+	"number": 0,
+	"channels": [
+		"ce0c1b1d8fc20683d27e3e19dfe111c7"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

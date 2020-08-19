@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Realmadrid TV HD",
+	"name": "Realmadrid TV HD",
+	"names": "\"Realmadrid TV HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/REALM.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}
