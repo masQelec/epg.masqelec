@@ -20,7 +20,7 @@
 		"/storage/.kodi/addons/service.tvheadend42/bin/tv_grab_masqelec": {
 			"class": "epggrab_mod_int_xmltv",
 			"dn_chnum": 0,
-			"name": "XMLTV: tv_grab_masqelec - Grabber
+			"name": "XMLTV: tv_grab_masqelec - Grabber"
 			"enabled": true,
 			"priority": 3
 		},
