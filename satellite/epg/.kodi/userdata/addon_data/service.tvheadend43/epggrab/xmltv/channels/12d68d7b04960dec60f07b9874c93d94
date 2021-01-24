@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "TCM HD",
+	"name": "TCM HD",
+	"names": "\"TCM HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/TCM.png",
+	"channels": [
+		"f094323385e3b11443ee95bcd7c1e821"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

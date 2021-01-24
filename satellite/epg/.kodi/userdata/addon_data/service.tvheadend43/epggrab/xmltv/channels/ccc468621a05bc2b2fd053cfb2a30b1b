@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Deportes 1",
+	"name": "M. Deportes 1",
+	"names": "\"M. Deportes 1\"",
+	"number": 0,
+	"channels": [
+		"022e2f3162a2e891213f40727e616393"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

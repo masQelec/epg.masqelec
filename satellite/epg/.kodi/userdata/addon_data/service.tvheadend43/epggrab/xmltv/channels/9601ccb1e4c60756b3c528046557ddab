@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "RT France HD",
+	"name": "RT France HD",
+	"names": "\"RT France HD\"",
+	"number": 0,
+	"channels": [
+		"ffdf99ec34d5513749e94bb01716425f",
+		"7d9858ede86bd0bef093f8fb45836fd9"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

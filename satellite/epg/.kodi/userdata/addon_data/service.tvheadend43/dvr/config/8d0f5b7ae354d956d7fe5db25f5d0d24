@@ -1,7 +1,7 @@
 {
 	"enabled": true,
 	"name": "",
-	"profile": "de98602ea79a2d1e2c7fce910e549b71",
+	"profile": "8d3dfe27224fc7591bba7cd8b8ee4d2b",
 	"pri": 0,
 	"retention-days": 2147483646,
 	"removal-days": 31,
@@ -14,7 +14,7 @@
 	"fetch-artwork": true,
 	"fetch-artwork-known-broadcasts-allow-unknown": true,
 	"storage": "/storage/recordings",
-	"storage-mfree": 1000,
+	"storage-mfree": 50,
 	"storage-mused": 100000,
 	"directory-permissions": "0775",
 	"file-permissions": "0664",

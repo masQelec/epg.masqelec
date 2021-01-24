@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Clan",
+	"name": "Clan",
+	"names": "\"Clan\"",
+	"number": 0,
+	"channels": [
+		"d9299a0260a4ec7236a9de08c30182b6"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

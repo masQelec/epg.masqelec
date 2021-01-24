@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Sky Sport 14 HD",
+	"name": "Sky Sport 14 HD",
+	"names": "\"Sky Sport 14 HD\"",
+	"number": 0,
+	"channels": [
+		"48581f9f21052492e823f67caabc06f8"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

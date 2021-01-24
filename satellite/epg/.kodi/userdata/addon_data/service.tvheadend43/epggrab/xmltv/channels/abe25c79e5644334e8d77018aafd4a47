@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Playboy TV",
+	"name": "Playboy TV",
+	"names": "\"Playboy TV\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/PBOY.png",
+	"channels": [
+		"6bdcaa9bdbe7633d1cd5994052ee966e"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

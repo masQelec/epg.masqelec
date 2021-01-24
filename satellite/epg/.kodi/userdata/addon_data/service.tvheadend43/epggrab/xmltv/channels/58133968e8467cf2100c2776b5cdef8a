@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Fox HD",
+	"name": "Fox HD",
+	"names": "\"Fox HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/FOXGE.png",
+	"channels": [
+		"7f57e303437ffea9971b8a500b3a66b9"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

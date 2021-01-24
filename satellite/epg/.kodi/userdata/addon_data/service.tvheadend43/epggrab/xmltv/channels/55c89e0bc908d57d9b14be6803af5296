@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Classica HD",
+	"name": "Classica HD",
+	"names": "\"Classica HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/CLASSI.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

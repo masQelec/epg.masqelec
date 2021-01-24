@@ -1,7 +1,7 @@
 {
 	"enabled": true,
-	"name": "M. Formula 1 HD",
-	"number": 57,
+	"name": "M. Fórmula 1 2020 HD",
+	"number": 58,
 	"icon": "picon://1_0_19_7531_426_1_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,
@@ -12,9 +12,9 @@
 		"d13bebec56c242c3c1b3617f20fa2979"
 	],
 	"tags": [
-		"8e06542863d3606f8a583e43c73580c2",
+		"fcc150b1f081f08ad2da9744f3fe3c2e",
 		"ac6da31b4882740649cd13bc94f96b1c",
-		"fcc150b1f081f08ad2da9744f3fe3c2e"
+		"8e06542863d3606f8a583e43c73580c2"
 	],
 	"bouquet": ""
 }

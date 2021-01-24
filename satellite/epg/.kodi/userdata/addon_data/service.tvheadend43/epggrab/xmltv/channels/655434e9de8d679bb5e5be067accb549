@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "CGTN",
+	"name": "CGTN",
+	"names": "\"CGTN\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/CCTV-E.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

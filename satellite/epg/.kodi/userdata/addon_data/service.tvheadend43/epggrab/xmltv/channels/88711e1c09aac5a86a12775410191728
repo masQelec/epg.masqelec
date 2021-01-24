@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Caza y Pesca",
+	"name": "Caza y Pesca",
+	"names": "\"Caza y Pesca\"",
+	"number": 0,
+	"channels": [
+		"7974413565dd3018217e96e4fc6f1834"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

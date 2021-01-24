@@ -1,0 +1,13 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Motorvision TV",
+	"name": "Motorvision TV",
+	"names": "\"Motorvision TV\"",
+	"number": 0,
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

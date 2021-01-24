@@ -1,0 +1,80 @@
+{
+	"enabled": true,
+	"create": 1601663025,
+	"watched": 0,
+	"start": 1601662380,
+	"start_extra": 0,
+	"stop": 1601665500,
+	"stop_extra": 0,
+	"channel": "5e897af391d525ed15e5420ebc5dba55",
+	"channelname": "SYFY HD",
+	"image": "https://www.movistarplus.es/recorte/n/caratula4/F3568317",
+	"title": {
+		"eng": "Stargate Atlantis - T1 E3: Jugando al escondite",
+		"spa": "Stargate Atlantis - T1 E3: Jugando al escondite"
+	},
+	"description": {
+		"spa": "[B][COLOR yellow](12)[/COLOR][/B] [COLOR gold]2004.[/COLOR] [COLOR lime]Dir:[/COLOR] David Warry Smith \n[COLOR lime]Reparto:[/COLOR][I] Chuck Campbell, Torri Higginson, David Hewlett, Joe Flanigan, David Nykl, Rachel Luttrell, Jason Momoa, Paul McGillion, Rainbow Francks[/I] \nRodney no puede deshacerse de un dispositivo que lo hace invencible, incapacitándolo para beber o comer. Mientras tanto, el mal funcionamiento del poder y uno de los Athosianos menciona haber visto una sombra.\n\n\nCategories: ciencia ficción, soap / melodrama / folkloric"
+	},
+	"pri": 2,
+	"retention": 0,
+	"removal": 92,
+	"playposition": 0,
+	"playcount": 0,
+	"config_name": "8d0f5b7ae354d956d7fe5db25f5d0d24",
+	"creator": "127.0.0.1",
+	"errorcode": 0,
+	"errors": 0,
+	"data_errors": 0,
+	"dvb_eid": 0,
+	"noresched": true,
+	"norerecord": false,
+	"fileremoved": 0,
+	"autorec": "",
+	"timerec": "",
+	"parent": "",
+	"child": "",
+	"content_type": 0,
+	"copyright_year": 0,
+	"broadcast": 0,
+	"files": [
+		{
+			"filename": "/storage/recordings/2020-10-02/SYFY-HD/Stargate-Atlantis---T1-E3_-Jugando-al-escondite/Stargate-Atlantis---T1-E3_-Jugando-al-escondite-SYFY-HD2020-10-0220-13.ts",
+			"info": [
+				{
+					"type": "AC3",
+					"language": "spa",
+					"audio_type": 1
+				},
+				{
+					"type": "H264",
+					"width": 1920,
+					"height": 1080,
+					"duration": 3600,
+					"aspect_num": 0,
+					"aspect_den": 0
+				},
+				{
+					"type": "TELETEXT"
+				},
+				{
+					"type": "AC3",
+					"language": "qaa",
+					"audio_type": 1
+				},
+				{
+					"type": "TEXTSUB",
+					"language": "spa",
+					"composition_id": 0,
+					"ancillary_id": 0
+				},
+				{
+					"type": "CA"
+				}
+			],
+			"start": 1601663025,
+			"stop": 1601663057,
+			"size": 21025168
+		}
+	]
+}

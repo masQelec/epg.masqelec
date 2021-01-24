@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "M. LaLiga UHD",
+	"name": "M. LaLiga UHD",
+	"names": "\"M. LaLiga UHD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGUH.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "M. LaLiga 2",
+	"name": "M. LaLiga 2",
+	"names": "\"M. LaLiga 2\"",
+	"number": 0,
+	"channels": [
+		"3360a0fe0f76652a9ca9174f69162782"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

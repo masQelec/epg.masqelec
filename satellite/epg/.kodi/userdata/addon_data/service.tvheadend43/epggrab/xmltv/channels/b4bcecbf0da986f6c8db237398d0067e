@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "tdp",
+	"name": "tdp",
+	"names": "\"tdp\"",
+	"number": 0,
+	"channels": [
+		"3bc352d0a0fad403a418b98700dd3e12"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

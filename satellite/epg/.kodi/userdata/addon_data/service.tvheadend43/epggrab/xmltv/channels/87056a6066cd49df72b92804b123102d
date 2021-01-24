@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Deportes 5 HD",
+	"name": "M. Deportes 5 HD",
+	"names": "\"M. Deportes 5 HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/MULTI8.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

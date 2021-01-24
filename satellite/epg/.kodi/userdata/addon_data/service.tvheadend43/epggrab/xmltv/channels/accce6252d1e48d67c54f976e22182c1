@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "ETB 4",
+	"name": "ETB 4",
+	"names": "\"ETB 4\"",
+	"number": 0,
+	"icon": "http:https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/8d/10000781.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

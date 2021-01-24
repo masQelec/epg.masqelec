@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Sky Sport UHD",
+	"name": "Sky Sport UHD",
+	"names": "\"Sky Sport UHD\"",
+	"number": 0,
+	"channels": [
+		"b96f6ddc3af8a69e0e529cf5aeb37a1d"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

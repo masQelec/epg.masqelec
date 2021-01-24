@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Comedia",
+	"name": "M. Comedia",
+	"names": "\"M. Comedia\"",
+	"number": 0,
+	"channels": [
+		"f2a5e4ae1b35e0e2c456ebc74feaa578"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

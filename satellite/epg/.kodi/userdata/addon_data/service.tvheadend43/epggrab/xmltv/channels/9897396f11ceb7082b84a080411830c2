@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Liga de Campeones 8",
+	"name": "M. Liga de Campeones 8",
+	"names": "\"M. Liga de Campeones 8\"",
+	"number": 0,
+	"channels": [
+		"38624448b570c9eaa5c951588db738f0"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

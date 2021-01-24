@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "M. LaLiga 9 HD",
+	"name": "M. LaLiga 9 HD",
+	"names": "\"M. LaLiga 9 HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG9.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

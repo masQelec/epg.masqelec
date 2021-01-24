@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "TV5MONDE EUROPE",
+	"name": "TV5MONDE EUROPE",
+	"names": "\"TV5MONDE EUROPE\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/TV5.png",
+	"channels": [
+		"96c46e48b4c6e10af5f8213c5cf36a11"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

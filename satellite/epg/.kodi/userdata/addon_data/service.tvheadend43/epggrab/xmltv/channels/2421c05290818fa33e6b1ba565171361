@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Sky Sport Bundesliga 1 HD",
+	"name": "Sky Sport Bundesliga 1 HD",
+	"names": "\"Sky Sport Bundesliga 1 HD\"",
+	"number": 0,
+	"channels": [
+		"1af1b2ed65a2af636fd6217796bc3253"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

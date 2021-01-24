@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Deportes 4",
+	"name": "M. Deportes 4",
+	"names": "\"M. Deportes 4\"",
+	"number": 0,
+	"channels": [
+		"df39c2a4fe08985c8cd0f86d26da29aa"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

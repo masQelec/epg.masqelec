@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Sky Sport 3 HD",
+	"name": "Sky Sport 3 HD",
+	"names": "\"Sky Sport 3 HD\"",
+	"number": 0,
+	"channels": [
+		"a9bc508c7d7e56821be2edc72afd9526"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

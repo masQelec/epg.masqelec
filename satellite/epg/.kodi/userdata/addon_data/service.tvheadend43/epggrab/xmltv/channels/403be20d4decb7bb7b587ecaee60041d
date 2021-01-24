@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Canal 33",
+	"name": "Canal 33",
+	"names": "\"Canal 33\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/C33.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

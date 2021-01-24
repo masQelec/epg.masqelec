@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "BLAZE",
+	"name": "BLAZE",
+	"names": "\"BLAZE\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/BIOGRA.png",
+	"channels": [
+		"f0569b3624e00c89380e3db5da56812d"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

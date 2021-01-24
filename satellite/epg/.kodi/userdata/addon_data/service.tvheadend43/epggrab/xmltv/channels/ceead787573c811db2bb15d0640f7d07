@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Eurosport 2 HD De",
+	"name": "Eurosport 2 HD De",
+	"names": "\"Eurosport 2 HD De\"",
+	"number": 0,
+	"channels": [
+		"83622d56ad32b93b3e6cd61e5eff9eaf"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

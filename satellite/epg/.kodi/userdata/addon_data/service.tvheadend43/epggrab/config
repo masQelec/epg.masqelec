@@ -24,10 +24,10 @@
 		"/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec": {
 			"class": "epggrab_mod_int_xmltv",
 			"dn_chnum": 0,
-			"scrape_extra": true,
-			"scrape_onto_desc": true,
-			"use_category_not_genre": true,
-			"name": "XMLTV: España-masQelec-EPG",
+			"scrape_extra": false,
+			"scrape_onto_desc": false,
+			"use_category_not_genre": false,
+			"name": "XMLTV: ESPAÑA-NormandyEPG",
 			"type": "Internal",
 			"enabled": true,
 			"priority": 3

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Sky Sport 6",
+	"name": "Sky Sport 6",
+	"names": "\"Sky Sport 6\"",
+	"number": 0,
+	"channels": [
+		"6628cbcaca65248dd0dfd81a9b879687"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

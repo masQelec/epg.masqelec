@@ -1,0 +1,82 @@
+{
+	"enabled": true,
+	"create": 1606866476,
+	"watched": 0,
+	"start": 1606856400,
+	"start_extra": 0,
+	"stop": 1606867800,
+	"stop_extra": 0,
+	"channel": "3bcdbd4a8567bf9ceb801b4d22bac17b",
+	"channelname": "La 1 HD",
+	"image": "https://www.movistarplus.es/recorte/n/caratula4/MTVEP1817602",
+	"title": {
+		"eng": "MasterChef Celebrity - T5 ",
+		"spa": "MasterChef Celebrity - T5 "
+	},
+	"description": {
+		"spa": "[B][COLOR cyan](7)[/COLOR][/B] [COLOR gold]2020.[/COLOR] \nRaquel Sánchez Silva, Ainhoa Artetason, Florentino Fernández y David Fernández son algunos de los famosos que pondrán a prueba sus dotes culinarias en el programa. Los concursantes deberán superar duras pruebas si quieren alzarse con el premio final.\n\n\nCategories: variety show"
+	},
+	"pri": 2,
+	"retention": 0,
+	"removal": 92,
+	"playposition": 0,
+	"playcount": 0,
+	"config_name": "8d0f5b7ae354d956d7fe5db25f5d0d24",
+	"creator": "127.0.0.1",
+	"errorcode": 0,
+	"errors": 0,
+	"data_errors": 0,
+	"dvb_eid": 0,
+	"noresched": true,
+	"norerecord": false,
+	"fileremoved": 0,
+	"autorec": "",
+	"timerec": "",
+	"parent": "",
+	"child": "",
+	"content_type": 0,
+	"copyright_year": 0,
+	"broadcast": 0,
+	"files": [
+		{
+			"filename": "/storage/recordings/2020-12-01/La-1-HD/MasterChef-Celebrity---T5-/MasterChef-Celebrity---T5--La-1-HD2020-12-0122-00.ts",
+			"info": [
+				{
+					"type": "H264",
+					"width": 1920,
+					"height": 1080,
+					"duration": 3600,
+					"aspect_num": 0,
+					"aspect_den": 0
+				},
+				{
+					"type": "MPEG2AUDIO",
+					"language": "spa",
+					"audio_type": 1,
+					"audio_version": 2
+				},
+				{
+					"type": "MPEG2AUDIO",
+					"language": "qaa",
+					"audio_type": 1,
+					"audio_version": 2
+				},
+				{
+					"type": "TELETEXT"
+				},
+				{
+					"type": "TEXTSUB",
+					"language": "spa",
+					"composition_id": 0,
+					"ancillary_id": 0
+				},
+				{
+					"type": "CA"
+				}
+			],
+			"start": 1606866480,
+			"stop": 1606866484,
+			"size": 7795796
+		}
+	]
+}

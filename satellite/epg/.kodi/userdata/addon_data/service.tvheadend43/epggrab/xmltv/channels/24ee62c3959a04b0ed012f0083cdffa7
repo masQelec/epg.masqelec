@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Neox HD",
+	"name": "Neox HD",
+	"names": "\"Neox HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/NEOX.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

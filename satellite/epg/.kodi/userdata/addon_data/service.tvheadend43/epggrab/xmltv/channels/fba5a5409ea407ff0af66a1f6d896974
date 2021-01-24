@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Nat Geo Wild",
+	"name": "Nat Geo Wild",
+	"names": "\"Nat Geo Wild\"",
+	"number": 0,
+	"channels": [
+		"18087ff0c4cef09610f3c6defb52e848"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

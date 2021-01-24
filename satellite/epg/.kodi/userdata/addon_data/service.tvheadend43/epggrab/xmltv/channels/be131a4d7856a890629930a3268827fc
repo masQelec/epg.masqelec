@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Bloomberg Europe TV",
+	"name": "Bloomberg Europe TV",
+	"names": "\"Bloomberg Europe TV\"",
+	"number": 0,
+	"channels": [
+		"ebd3c649e075b1f04c01aaeb48d6f8cd"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

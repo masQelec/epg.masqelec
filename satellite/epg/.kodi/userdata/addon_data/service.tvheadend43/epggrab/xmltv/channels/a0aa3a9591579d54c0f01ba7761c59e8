@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "M. Fórmula 1 2020 HD",
+	"name": "M. Fórmula 1 2020 HD",
+	"names": "\"M. Fórmula 1 2020 HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png",
+	"channels": [
+		"42b98b3f65ad7d248bea71084a85d37c"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

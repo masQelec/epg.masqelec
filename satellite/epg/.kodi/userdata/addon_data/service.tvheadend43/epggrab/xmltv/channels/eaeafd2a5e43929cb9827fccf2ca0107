@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "M. Liga de Campeones 1 HD",
+	"name": "M. Liga de Campeones 1 HD",
+	"names": "\"M. Liga de Campeones 1 HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP1.png",
+	"channels": [
+		"4a2abe29d43bb10a53856eabef37cecd"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

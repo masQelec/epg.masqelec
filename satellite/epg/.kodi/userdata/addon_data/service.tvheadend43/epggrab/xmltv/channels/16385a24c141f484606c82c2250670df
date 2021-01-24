@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Sky Sport 10 HD",
+	"name": "Sky Sport 10 HD",
+	"names": "\"Sky Sport 10 HD\"",
+	"number": 0,
+	"channels": [
+		"aea3d4edd2445137aea4e53be8a99512"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

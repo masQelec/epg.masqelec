@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "La 2",
+	"name": "La 2",
+	"names": "\"La 2\"",
+	"number": 0,
+	"channels": [
+		"fdee7ab0944bf07a32d52262e3d4a926"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

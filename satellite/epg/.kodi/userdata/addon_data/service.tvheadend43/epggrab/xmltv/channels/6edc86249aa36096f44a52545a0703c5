@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Sky Sport 3",
+	"name": "Sky Sport 3",
+	"names": "\"Sky Sport 3\"",
+	"number": 0,
+	"channels": [
+		"905cf96cf13a523738e2b40908c91d19"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"enabled": true,
+	"create": 1604338302,
+	"watched": 0,
+	"start": 1604348580,
+	"start_extra": 0,
+	"stop": 1604350080,
+	"stop_extra": 0,
+	"channel": "d4f2de789a7b55049a8354bf23ac7e99",
+	"channelname": "Canal Panda",
+	"image": "https://www.movistarplus.es/recorte/n/caratula4/MPANDAP1813376",
+	"title": {
+		"eng": "El tigre que vino a tomar el té",
+		"spa": "El tigre que vino a tomar el té"
+	},
+	"description": {
+		"spa": "[B][COLOR lime](TP)[/COLOR][/B] [COLOR gold]2019.[/COLOR] \nUn misterioso tigre se presenta sin avisar en casa de Sofía y se autoinvita a tomar el té.\n\n\nCategories: cartoons / puppets, variety show"
+	},
+	"pri": 2,
+	"retention": 0,
+	"removal": 92,
+	"playposition": 0,
+	"playcount": 0,
+	"config_name": "8d0f5b7ae354d956d7fe5db25f5d0d24",
+	"creator": "127.0.0.1",
+	"errorcode": 101,
+	"errors": 0,
+	"data_errors": 0,
+	"dvb_eid": 0,
+	"noresched": false,
+	"norerecord": false,
+	"fileremoved": 0,
+	"autorec": "",
+	"timerec": "",
+	"parent": "",
+	"child": "",
+	"content_type": 0,
+	"copyright_year": 0,
+	"broadcast": 0
+}

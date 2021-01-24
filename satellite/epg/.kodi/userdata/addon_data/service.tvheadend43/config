@@ -22,7 +22,7 @@
 		"ger",
 		"eng"
 	],
-	"epg_compress": true,
+	"epg_compress": false,
 	"epg_cutwindow": 300,
 	"epg_window": 86400,
 	"prefer_picon": true,
@@ -40,7 +40,7 @@
 	"hdhomerun_ip": "",
 	"local_ip": "",
 	"local_port": 0,
-	"http_user_agent": "TVHeadend/221c29b ~ CoreELEC Tvh-addon v9.2.100",
+	"http_user_agent": "TVHeadend/d37fd06 ~ CoreELEC Tvh-addon v1.0.101",
 	"iptv_tpool": 2,
 	"dscp": -1,
 	"descrambler_buffer": 9000,

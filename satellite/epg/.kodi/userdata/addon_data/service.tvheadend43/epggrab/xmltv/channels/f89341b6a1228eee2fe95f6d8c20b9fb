@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Sky Sport Bundesliga 7",
+	"name": "Sky Sport Bundesliga 7",
+	"names": "\"Sky Sport Bundesliga 7\"",
+	"number": 0,
+	"channels": [
+		"daa3261896126f1f723c2f1c25463b84"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

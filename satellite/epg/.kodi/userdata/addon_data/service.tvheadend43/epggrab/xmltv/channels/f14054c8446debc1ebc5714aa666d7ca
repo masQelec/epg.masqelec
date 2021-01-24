@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Sky Sport Bundesliga UHD",
+	"name": "Sky Sport Bundesliga UHD",
+	"names": "\"Sky Sport Bundesliga UHD\"",
+	"number": 0,
+	"channels": [
+		"72bcfc90c66347e87cd32d5b9a7b3f6b"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

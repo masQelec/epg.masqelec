@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Hollywood",
+	"name": "Hollywood",
+	"names": "\"Hollywood\"",
+	"number": 0,
+	"channels": [
+		"2427943007b219ca4a7a64d2513fadc7"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

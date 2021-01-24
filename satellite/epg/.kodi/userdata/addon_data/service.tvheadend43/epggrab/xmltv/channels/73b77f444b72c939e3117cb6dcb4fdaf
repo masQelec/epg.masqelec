@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "TVG - TV Galicia",
+	"name": "TVG - TV Galicia",
+	"names": "\"TVG - TV Galicia\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/TVGAL.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

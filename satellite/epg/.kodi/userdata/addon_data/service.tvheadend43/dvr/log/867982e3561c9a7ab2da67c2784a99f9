@@ -1,0 +1,38 @@
+{
+	"enabled": true,
+	"create": 1602547717,
+	"watched": 0,
+	"start": 1602547717,
+	"start_extra": 0,
+	"stop": 1602554917,
+	"stop_extra": 0,
+	"channel": "fc06d7db85e7445b375d2665ccaf8a38",
+	"channelname": "M. Fest",
+	"title": {
+		"spa": "M. Fest"
+	},
+	"description": {
+		"spa": "Grabación inmediata: 13/10/2020 de 2:08 a 4:08"
+	},
+	"pri": 2,
+	"retention": 0,
+	"removal": 92,
+	"playposition": 0,
+	"playcount": 0,
+	"config_name": "8d0f5b7ae354d956d7fe5db25f5d0d24",
+	"creator": "127.0.0.1",
+	"errorcode": 0,
+	"errors": 0,
+	"data_errors": 0,
+	"dvb_eid": 0,
+	"noresched": true,
+	"norerecord": false,
+	"fileremoved": 0,
+	"autorec": "",
+	"timerec": "",
+	"parent": "",
+	"child": "",
+	"content_type": 0,
+	"copyright_year": 0,
+	"broadcast": 0
+}

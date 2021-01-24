@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Canal Sur Andalucía",
+	"name": "Canal Sur Andalucía",
+	"names": "\"Canal Sur Andalucía\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/ANTV.png",
+	"channels": [
+		"82b4a36cd5ea74caf572652e97bfc92a"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Sky Sport Austria 1",
+	"name": "Sky Sport Austria 1",
+	"names": "\"Sky Sport Austria 1\"",
+	"number": 0,
+	"channels": [
+		"2c774695e80b730078c084729f7937e0"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

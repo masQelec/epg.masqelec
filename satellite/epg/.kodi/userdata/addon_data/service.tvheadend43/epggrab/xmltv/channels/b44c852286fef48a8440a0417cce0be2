@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Mezzo",
+	"name": "Mezzo",
+	"names": "\"Mezzo\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/MEZZO.png",
+	"channels": [
+		"02580b05a6a1f9955a5b7590afbc6b2e"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -2,7 +2,7 @@
 	"enabled": true,
 	"name": "M. CineDoc&Roll HD",
 	"number": 31,
-	"icon": "picon://1_0_19_74D8_3F8_1_C00000_0_0_0.png",
+	"icon": "picon://1_0_19_78BF_3EC_1_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,
 	"dvr_pre_time": 0,
@@ -12,10 +12,11 @@
 		"9fbcd4b3b4a530d614af56d54fa22ce3"
 	],
 	"tags": [
-		"8e06542863d3606f8a583e43c73580c2",
-		"ac6da31b4882740649cd13bc94f96b1c",
+		"3ce4322db2097f2476dd5fc498e4dbe9",
 		"eb9b445a53e8e1211bfe26b41897b69b",
-		"3ce4322db2097f2476dd5fc498e4dbe9"
+		"ac6da31b4882740649cd13bc94f96b1c",
+		"8e06542863d3606f8a583e43c73580c2"
 	],
 	"bouquet": ""
 }
+NormandyEPG

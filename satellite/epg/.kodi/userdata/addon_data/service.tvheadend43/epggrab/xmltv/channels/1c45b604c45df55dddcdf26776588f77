@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_masqelec",
+	"id": "Portada",
+	"name": "Portada",
+	"names": "\"Portada\"",
+	"number": 0,
+	"channels": [
+		"6a6db9621bfddbb7cd1902e87db407de"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

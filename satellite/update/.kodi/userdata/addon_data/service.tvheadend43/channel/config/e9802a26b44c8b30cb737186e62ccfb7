@@ -2,7 +2,7 @@
 	"enabled": true,
 	"name": "Cuatro",
 	"number": 804,
-	"icon": "picon://1_0_1_77C7_40A_1_C00000_0_0_0.png",
+	"icon": "file:///picons/Cuatro.png",
 	"epgauto": true,
 	"epglimit": 0,
 	"dvr_pre_time": 0,
@@ -16,3 +16,4 @@
 	],
 	"bouquet": ""
 }
+NormandyEPG

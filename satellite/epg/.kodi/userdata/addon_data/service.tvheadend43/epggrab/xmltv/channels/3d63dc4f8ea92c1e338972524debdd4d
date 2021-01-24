@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "laSexta HD",
+	"name": "laSexta HD",
+	"names": "\"laSexta HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/SEXTA.png",
+	"channels": [
+		"f7944c1ad5f7a3d549e552c4d70263bc"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

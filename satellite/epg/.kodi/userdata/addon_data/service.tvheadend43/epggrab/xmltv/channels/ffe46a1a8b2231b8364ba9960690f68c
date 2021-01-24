@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Canal Extremadura",
+	"name": "Canal Extremadura",
+	"names": "\"Canal Extremadura\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/EXTRE.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

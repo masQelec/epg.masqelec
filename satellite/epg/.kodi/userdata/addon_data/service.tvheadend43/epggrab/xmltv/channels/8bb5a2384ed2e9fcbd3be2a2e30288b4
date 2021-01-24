@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Series",
+	"name": "M. Series",
+	"names": "\"M. Series\"",
+	"number": 0,
+	"channels": [
+		"9c19f2a97eb905fef758725c29c31735"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

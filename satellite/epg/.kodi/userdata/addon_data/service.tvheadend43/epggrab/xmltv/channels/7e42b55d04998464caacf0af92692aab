@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Canal Fútbol Replay",
+	"name": "Canal Fútbol Replay",
+	"names": "\"Canal Fútbol Replay\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/FUTREP.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

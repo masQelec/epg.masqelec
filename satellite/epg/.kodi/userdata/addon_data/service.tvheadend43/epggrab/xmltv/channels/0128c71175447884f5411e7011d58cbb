@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "antena3",
+	"name": "antena3",
+	"names": "\"antena3\"",
+	"number": 0,
+	"channels": [
+		"eddbbca56799dfcff99b35ba03a785c9"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

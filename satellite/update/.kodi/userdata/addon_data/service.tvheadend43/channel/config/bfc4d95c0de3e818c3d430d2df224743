@@ -1,7 +1,7 @@
 {
 	"enabled": true,
 	"name": "M. Golf HD",
-	"number": 59,
+	"number": 57,
 	"icon": "picon://1_0_19_78B7_3EC_1_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,
@@ -12,9 +12,9 @@
 		"ae4f79528387b9add71a2b0cdd47b4c8"
 	],
 	"tags": [
-		"fcc150b1f081f08ad2da9744f3fe3c2e",
+		"8e06542863d3606f8a583e43c73580c2",
 		"ac6da31b4882740649cd13bc94f96b1c",
-		"8e06542863d3606f8a583e43c73580c2"
+		"fcc150b1f081f08ad2da9744f3fe3c2e"
 	],
 	"bouquet": ""
 }

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Esport 3",
+	"name": "Esport 3",
+	"names": "\"Esport 3\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/ESP3.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

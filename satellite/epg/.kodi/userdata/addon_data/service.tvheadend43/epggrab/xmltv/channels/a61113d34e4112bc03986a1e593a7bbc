@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "DAZN 2",
+	"name": "M. DAZN 2",
+	"names": "\"M. DAZN 2\"",
+	"number": 0,
+	"channels": [
+		"54963088e0d414bf061289c558419701"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

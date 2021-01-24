@@ -2,7 +2,7 @@
 	"enabled": true,
 	"name": "M. Drama HD",
 	"number": 35,
-	"icon": "picon://1_0_1_746E_3F0_1_C00000_0_0_0.png",
+	"icon": "picon://1_0_19_750B_420_1_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,
 	"dvr_pre_time": 0,
@@ -12,9 +12,10 @@
 		"3ea2c5f8429108921dc70f8ae54633df"
 	],
 	"tags": [
-		"eb9b445a53e8e1211bfe26b41897b69b",
+		"8e06542863d3606f8a583e43c73580c2",
 		"ac6da31b4882740649cd13bc94f96b1c",
-		"8e06542863d3606f8a583e43c73580c2"
+		"eb9b445a53e8e1211bfe26b41897b69b"
 	],
 	"bouquet": ""
 }
+NormandyEPG

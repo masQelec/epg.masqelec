@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Eurosport360HD 4",
+	"name": "Eurosport360HD 4",
+	"names": "\"Eurosport360HD 4\"",
+	"number": 0,
+	"channels": [
+		"85cf92ca4e2339bdaac5bab295e413e7"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Disney Channel",
+	"name": "Disney Channel",
+	"names": "\"Disney Channel\"",
+	"number": 0,
+	"channels": [
+		"a00c73d2461819e83b04ce5eb38d2a68"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

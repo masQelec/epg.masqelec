@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Calle 13 HD",
+	"name": "Calle 13 HD",
+	"names": "\"Calle 13 HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/CL13.png",
+	"channels": [
+		"a33709c788b001fee8cb570f8e693ffa"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

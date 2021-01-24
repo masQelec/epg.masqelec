@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Somos",
+	"name": "Somos",
+	"names": "\"Somos\"",
+	"number": 0,
+	"icon": "http:https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/75/10000501.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

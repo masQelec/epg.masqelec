@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Cazavisión",
+	"name": "Cazavisión",
+	"names": "\"Cazavisión\"",
+	"number": 0,
+	"icon": "http:https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/10/10000656.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

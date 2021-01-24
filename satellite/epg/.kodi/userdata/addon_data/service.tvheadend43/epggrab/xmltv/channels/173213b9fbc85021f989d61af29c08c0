@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "COSMO HD",
+	"name": "COSMO HD",
+	"names": "\"COSMO HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/COSMO.png",
+	"channels": [
+		"8e997b74ea0c77360bc59fafc716a5c4"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

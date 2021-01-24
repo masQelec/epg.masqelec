@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Fox",
+	"name": "Fox",
+	"names": "\"Fox\"",
+	"number": 0,
+	"channels": [
+		"e5cf79859fc1b9080cd13947b57854ae"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

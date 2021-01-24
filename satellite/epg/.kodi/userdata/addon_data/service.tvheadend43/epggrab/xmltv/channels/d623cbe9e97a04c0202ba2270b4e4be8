@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "tdp HD",
+	"name": "tdp HD",
+	"names": "\"tdp HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/TDEP.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

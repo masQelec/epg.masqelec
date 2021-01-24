@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Fox Life",
+	"name": "Fox Life",
+	"names": "\"Fox Life\"",
+	"number": 0,
+	"channels": [
+		"410af652c050bbeaca5f356a72549707"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

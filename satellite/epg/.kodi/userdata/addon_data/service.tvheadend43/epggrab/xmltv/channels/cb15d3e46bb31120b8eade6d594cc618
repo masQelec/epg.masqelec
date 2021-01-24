@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Liga de Campeones 5",
+	"name": "M. Liga de Campeones 5",
+	"names": "\"M. Liga de Campeones 5\"",
+	"number": 0,
+	"channels": [
+		"7649b2d3586278ba1aae1d7ca716e6a0"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

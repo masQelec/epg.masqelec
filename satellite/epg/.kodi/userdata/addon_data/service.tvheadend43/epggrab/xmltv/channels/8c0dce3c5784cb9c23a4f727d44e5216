@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "LaLiga TV BAR 1",
+	"name": "LaLiga TV BAR 1",
+	"names": "\"LaLiga TV BAR 1\"",
+	"number": 0,
+	"channels": [
+		"ff6412781dc1a63b418878811e278306"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

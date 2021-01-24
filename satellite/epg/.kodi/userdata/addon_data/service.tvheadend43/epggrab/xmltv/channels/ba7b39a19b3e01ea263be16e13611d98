@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Nova",
+	"name": "Nova",
+	"names": "\"Nova\"",
+	"number": 0,
+	"channels": [
+		"1ec4f0c8bdf0ff30ebeedbb4a6075fb8"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

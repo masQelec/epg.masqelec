@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "AndaluciaTV",
+	"name": "AndaluciaTV",
+	"names": "\"AndaluciaTV\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/ANDATV.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

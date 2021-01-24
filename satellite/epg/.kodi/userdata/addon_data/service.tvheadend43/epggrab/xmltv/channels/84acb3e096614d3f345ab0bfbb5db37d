@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "#Vamos BAR 1",
+	"name": "#Vamos BAR 1",
+	"names": "\"#Vamos BAR 1\"",
+	"number": 0,
+	"channels": [
+		"8e05462a12174a4c37a3067e5cd80a07"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

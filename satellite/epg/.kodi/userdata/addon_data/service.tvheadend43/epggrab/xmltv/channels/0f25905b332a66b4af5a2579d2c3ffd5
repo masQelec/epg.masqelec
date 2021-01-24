@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Sky Sport Austria 3",
+	"name": "Sky Sport Austria 3",
+	"names": "\"Sky Sport Austria 3\"",
+	"number": 0,
+	"channels": [
+		"d70ba188ba5612df8191523c90ddf5e9"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

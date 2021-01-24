@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Sky Sport 9",
+	"name": "Sky Sport 9",
+	"names": "\"Sky Sport 9\"",
+	"number": 0,
+	"channels": [
+		"537c750c54b6f75b126c10888e892c4c"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

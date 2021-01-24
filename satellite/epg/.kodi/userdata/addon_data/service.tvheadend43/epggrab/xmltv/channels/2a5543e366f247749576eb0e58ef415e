@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "TV Mediterráneo",
+	"name": "TV Mediterráneo",
+	"names": "\"TV Mediterráneo\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/MEDITE.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

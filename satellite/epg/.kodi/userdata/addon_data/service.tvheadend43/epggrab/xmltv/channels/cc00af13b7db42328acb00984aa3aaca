@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "AMC HD",
+	"name": "AMC HD",
+	"names": "\"AMC HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/AMC.png",
+	"channels": [
+		"eb3e947a4b9cb59363c3d8e8f1166480"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

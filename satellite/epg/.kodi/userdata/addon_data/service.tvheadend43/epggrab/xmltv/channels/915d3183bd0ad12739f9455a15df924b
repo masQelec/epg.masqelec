@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Baby TV",
+	"name": "Baby TV",
+	"names": "\"Baby TV\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/BABY.png",
+	"channels": [
+		"165e1d19d0a435897755d52449da6c11"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

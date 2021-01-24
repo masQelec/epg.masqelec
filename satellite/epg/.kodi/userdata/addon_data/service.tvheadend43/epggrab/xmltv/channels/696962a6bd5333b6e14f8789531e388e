@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "BeMad tv",
+	"name": "BeMad tv",
+	"names": "\"BeMad tv\"",
+	"number": 0,
+	"channels": [
+		"5ff7040770eeb220d578d6c04f0a5e51"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

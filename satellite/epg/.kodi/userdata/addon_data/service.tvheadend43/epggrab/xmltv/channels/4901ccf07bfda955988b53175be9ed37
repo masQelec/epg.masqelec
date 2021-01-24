@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Sky Sport Bundesliga 9 HD",
+	"name": "Sky Sport Bundesliga 9 HD",
+	"names": "\"Sky Sport Bundesliga 9 HD\"",
+	"number": 0,
+	"channels": [
+		"3e0d3b2626d7655f56418d13bcb46b5c"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "Sky News Intl",
+	"name": "Sky News Intl",
+	"names": "\"Sky News Intl\"",
+	"number": 0,
+	"channels": [
+		"c26ceeabca4a2c0ffb03730b121349bf"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

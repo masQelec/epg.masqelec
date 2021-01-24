@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "DAZN 1",
+	"name": "M. DAZN 1",
+	"names": "\"M. DAZN 1\"",
+	"number": 0,
+	"channels": [
+		"41a27e094d35e0ad248f2df55573853b"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

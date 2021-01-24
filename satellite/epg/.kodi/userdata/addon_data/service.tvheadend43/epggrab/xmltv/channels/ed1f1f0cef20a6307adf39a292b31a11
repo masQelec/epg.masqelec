@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_NormandyEPGmv",
+	"id": "PORTADA",
+	"name": "PORTADA",
+	"names": "\"PORTADA\"",
+	"number": 0,
+	"channels": [
+		"6a6db9621bfddbb7cd1902e87db407de"
+	],
+	"only_one": false,
+	"update": [
+	]
+}
