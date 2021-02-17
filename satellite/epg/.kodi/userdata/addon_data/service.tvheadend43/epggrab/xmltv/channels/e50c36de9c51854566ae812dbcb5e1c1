@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Estrenos",
+	"name": "M. Estrenos",
+	"names": "\"M. Estrenos\"",
+	"number": 0,
+	"channels": [
+		"b3b5995ea673819176cd9f377902b9e0"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

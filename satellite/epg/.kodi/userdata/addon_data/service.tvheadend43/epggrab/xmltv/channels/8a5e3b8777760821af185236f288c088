@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "LaLiga TV BAR 1",
+	"name": "LaLiga TV BAR 1",
+	"names": "\"LaLiga TV BAR 1\"",
+	"number": 0,
+	"channels": [
+		"c878755a54d69e846ada967456fd5ad0"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "AMC HD",
+	"name": "AMC HD",
+	"names": "\"AMC HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/AMC.png",
+	"channels": [
+		"b5b74b92e8bdfb959ed1947ba1785e0d"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

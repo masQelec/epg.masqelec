@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "SportDigital Fussball HD TV",
+	"name": "SportDigital Fussball HD",
+	"names": "\"SportDigital Fussball HD\"",
+	"number": 0,
+	"channels": [
+		"2edb39ee6014f67760f3ed6fe253c9a5"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

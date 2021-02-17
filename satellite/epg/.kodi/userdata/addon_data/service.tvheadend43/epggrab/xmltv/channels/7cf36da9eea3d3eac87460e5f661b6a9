@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "MTV Music 24",
+	"name": "MTV Music 24",
+	"names": "\"MTV Music 24\"",
+	"number": 0,
+	"icon": "http:https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/f3/10000627.png",
+	"channels": [
+		"0e8e1bdb90f590134d5a8fed2d2dab06"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

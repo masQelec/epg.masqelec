@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Telesur HD",
+	"name": "Telesur HD",
+	"names": "\"Telesur HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/TLESUR.png",
+	"channels": [
+		"b6d13c74335b735dc9f38c5629023b21"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

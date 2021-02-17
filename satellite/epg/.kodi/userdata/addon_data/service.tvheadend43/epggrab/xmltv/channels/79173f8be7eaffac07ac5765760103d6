@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Antena 3",
+	"name": "Antena 3",
+	"names": "\"Antena 3\"",
+	"number": 0,
+	"channels": [
+		"4fde80d8da7e9be2d758c610fdde6682"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

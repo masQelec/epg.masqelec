@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Sky Sport 1 HD",
+	"name": "Sky Sport 1 HD",
+	"names": "\"Sky Sport 1 HD\"",
+	"number": 0,
+	"channels": [
+		"da071978b6dd032d9f1c9b7120d50097"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

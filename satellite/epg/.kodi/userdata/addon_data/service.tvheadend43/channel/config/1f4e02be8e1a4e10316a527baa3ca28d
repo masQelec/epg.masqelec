@@ -1,0 +1,21 @@
+{
+	"enabled": true,
+	"name": "Nat Geo HD",
+	"number": 70,
+	"icon": "picon://1_0_19_7829_428_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": 1,
+	"services": [
+		"895b1436545444b3c9c9bcfee85c93a0"
+	],
+	"tags": [
+		"3ce4322db2097f2476dd5fc498e4dbe9",
+		"ac6da31b4882740649cd13bc94f96b1c",
+		"8e06542863d3606f8a583e43c73580c2"
+	],
+	"bouquet": ""
+}
+NormandyEPG

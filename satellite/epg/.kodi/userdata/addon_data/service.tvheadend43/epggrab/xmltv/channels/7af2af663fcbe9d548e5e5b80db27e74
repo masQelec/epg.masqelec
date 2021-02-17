@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Al Jazeera English HD",
+	"name": "Al Jazeera English HD",
+	"names": "\"Al Jazeera English HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/ALJAZE.png",
+	"channels": [
+		"860303ba3f1217bff015d400868cea30"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Discovery",
+	"name": "Discovery",
+	"names": "\"Discovery\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/DCR.png",
+	"channels": [
+		"5c41c55288c450b463a48b4a6d9c8703"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

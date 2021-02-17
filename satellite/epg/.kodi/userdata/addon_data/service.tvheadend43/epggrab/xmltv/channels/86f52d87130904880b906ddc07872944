@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Comedia HD",
+	"name": "M. Comedia HD",
+	"names": "\"M. Comedia HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/CPCOME.png",
+	"channels": [
+		"b1c0715f460bf9333317fd9b4341896d"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

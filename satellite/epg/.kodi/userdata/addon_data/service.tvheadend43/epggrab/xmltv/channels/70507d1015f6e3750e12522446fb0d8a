@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "AXN White HD",
+	"name": "AXN White HD",
+	"names": "\"AXN White HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/SET.png",
+	"channels": [
+		"3a1ff6f4a09b41d68dcef5848e56b32a"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

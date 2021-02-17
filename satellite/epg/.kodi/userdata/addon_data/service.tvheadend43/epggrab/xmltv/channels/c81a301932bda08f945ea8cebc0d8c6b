@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. LaLiga 10",
+	"name": "M. LaLiga 10",
+	"names": "\"M. LaLiga 10\"",
+	"number": 0,
+	"channels": [
+		"a41d18404ad933b38c542e22e72ff048"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

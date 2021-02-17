@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "AXN HD",
+	"name": "AXN HD",
+	"names": "\"AXN HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/AXN.png",
+	"channels": [
+		"fb03eb53e1ae97556429364e67c398e0"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

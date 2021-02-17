@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Liga de Campeones 3",
+	"name": "M. Liga de Campeones 3",
+	"names": "\"M. Liga de Campeones 3\"",
+	"number": 0,
+	"channels": [
+		"4a5035bdf7018d599543ef01dff5100e"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Seriesmanía HD",
+	"name": "M. Seriesmanía HD",
+	"names": "\"M. Seriesmanía HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/MV2.png",
+	"channels": [
+		"6282c076955d516f763c78cc070cd4b2"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "RT France HD",
+	"name": "RT France HD",
+	"names": "\"RT France HD\"",
+	"number": 0,
+	"channels": [
+		"74f240a9b816714df8da50defb14d2e8"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

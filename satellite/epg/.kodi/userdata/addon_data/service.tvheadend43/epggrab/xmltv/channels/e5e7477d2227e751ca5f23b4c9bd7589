@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Caza y Pesca",
+	"name": "Caza y Pesca",
+	"names": "\"Caza y Pesca\"",
+	"number": 0,
+	"channels": [
+		"acb43a0900186ed1c17d6c41dc97c3a2"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

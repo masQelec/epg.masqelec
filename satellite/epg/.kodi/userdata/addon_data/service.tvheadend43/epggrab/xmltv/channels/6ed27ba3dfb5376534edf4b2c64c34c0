@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Deportes 5",
+	"name": "M. Deportes 5",
+	"names": "\"M. Deportes 5\"",
+	"number": 0,
+	"channels": [
+		"fcf3b7b0a60b8a2c5d5e2e043e72f353"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

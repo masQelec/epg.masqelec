@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. LaLiga 1 HD",
+	"name": "M. LaLiga 1 HD",
+	"names": "\"M. LaLiga 1 HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG1.png",
+	"channels": [
+		"843a4f5bb01f26997d9c608a27391f1f"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

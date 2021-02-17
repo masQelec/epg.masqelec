@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Eurosport 1 HD De",
+	"name": "Eurosport 1 HD De",
+	"names": "\"Eurosport 1 HD De\"",
+	"number": 0,
+	"channels": [
+		"605d2bf16a225d22e7db496ce478c46a"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

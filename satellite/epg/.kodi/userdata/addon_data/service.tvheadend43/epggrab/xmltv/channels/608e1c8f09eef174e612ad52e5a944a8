@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Cubavisión Internacional",
+	"name": "Cubavisión Internacional",
+	"names": "\"Cubavisión Internacional\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/CUBAV.png",
+	"channels": [
+		"72b99af33a044c820fc6a83638e0b42f"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

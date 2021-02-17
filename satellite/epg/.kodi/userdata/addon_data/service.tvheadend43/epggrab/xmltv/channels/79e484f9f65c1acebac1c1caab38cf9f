@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Sundance",
+	"name": "Sundance",
+	"names": "\"Sundance\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/SUNDAN.png",
+	"channels": [
+		"c8577c701ea8e76474c74f27476c11c5"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Disney+",
+	"name": "Disney+",
+	"names": "\"Disney+\"",
+	"number": 0,
+	"channels": [
+		"cc0ae5809ce5db6ae7c550097f9ffd97"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

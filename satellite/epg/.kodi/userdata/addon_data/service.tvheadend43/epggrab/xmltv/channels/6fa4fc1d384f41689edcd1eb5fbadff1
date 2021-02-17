@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Comedia",
+	"name": "M. Comedia",
+	"names": "\"M. Comedia\"",
+	"number": 0,
+	"channels": [
+		"c444dee1c0cfd990a350ff7d01d39994"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

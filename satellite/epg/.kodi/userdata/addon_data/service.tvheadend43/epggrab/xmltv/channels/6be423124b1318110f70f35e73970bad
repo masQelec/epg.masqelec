@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "MTV 80s",
+	"name": "MTV 80s",
+	"names": "\"MTV 80s\"",
+	"number": 0,
+	"icon": "http:https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/41/10000705.png",
+	"channels": [
+		"73ee1896b484697ab718da2b5e065f56"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

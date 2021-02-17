@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Cuatro HD",
+	"name": "Cuatro HD",
+	"names": "\"Cuatro HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/C4.png",
+	"channels": [
+		"cef6decd49016d1736a5dbf4fb3857bf"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "BBC World News Europe HD",
+	"name": "BBC World News Europe HD",
+	"names": "\"BBC World News Europe HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/BBC.png",
+	"channels": [
+		"698f576ff8266ae9dc2fcaaf56ae4858"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

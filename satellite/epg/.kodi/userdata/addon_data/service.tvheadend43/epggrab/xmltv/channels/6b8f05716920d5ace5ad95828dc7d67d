@@ -1,0 +1,13 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Sky Sport Bundesliga 9 HD",
+	"name": "Sky Sport Bundesliga 9 HD",
+	"names": "\"Sky Sport Bundesliga 9 HD\"",
+	"number": 0,
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Nickelodeon HD",
+	"name": "Nickelodeon HD",
+	"names": "\"Nickelodeon HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/NICK.png",
+	"channels": [
+		"83ae0626b76cc9b0d85618293ae90dc4"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Sky Sport 2 HD",
+	"name": "Sky Sport 2 HD",
+	"names": "\"Sky Sport 2 HD\"",
+	"number": 0,
+	"channels": [
+		"eabe33312f767949a9d615f6fe9ad2df"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

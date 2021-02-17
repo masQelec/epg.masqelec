@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "France 24 (FR)",
+	"name": "France 24 (FR)",
+	"names": "\"France 24 (FR)\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/FRANCE.png",
+	"channels": [
+		"80a4ba94bb0ea2a051a46fc0d8bd967a"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "La 1 HD",
+	"name": "La 1 HD",
+	"names": "\"La 1 HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/TVE.png",
+	"channels": [
+		"549e23411cdcb2851e7582c32dce2a6a"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

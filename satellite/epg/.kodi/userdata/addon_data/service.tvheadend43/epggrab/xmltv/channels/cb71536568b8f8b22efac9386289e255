@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Crimen",
+	"name": "M. Crimen",
+	"names": "\"M. Crimen\"",
+	"number": 0,
+	"channels": [
+		"ab362cd8c30b862035c01d98e38cf5e4"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

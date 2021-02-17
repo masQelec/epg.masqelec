@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "ServusTV HD Deutschland",
+	"name": "ServusTV HD Deutschland",
+	"names": "\"ServusTV HD Deutschland\"",
+	"number": 0,
+	"channels": [
+		"db7bb3644d24725e4ad5049e34d2a3e3"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

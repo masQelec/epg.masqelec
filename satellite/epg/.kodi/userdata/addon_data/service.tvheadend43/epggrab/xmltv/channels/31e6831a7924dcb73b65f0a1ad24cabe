@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "TVGA HD",
+	"name": "TVGA HD",
+	"names": "\"TVGA HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/TVG.png",
+	"channels": [
+		"1ccb3bb7eda2eac8f2c06f68e88cdf8f"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

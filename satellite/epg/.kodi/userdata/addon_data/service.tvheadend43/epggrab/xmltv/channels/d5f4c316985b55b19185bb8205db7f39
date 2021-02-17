@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Canal Decasa",
+	"name": "Canal Decasa",
+	"names": "\"Canal Decasa\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/DECASA.png",
+	"channels": [
+		"35de4fbebf86f7723fcfe50bf2efd249"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

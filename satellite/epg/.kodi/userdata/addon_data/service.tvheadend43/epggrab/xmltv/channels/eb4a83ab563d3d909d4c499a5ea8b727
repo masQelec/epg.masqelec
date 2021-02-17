@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Liga de Campeones 8",
+	"name": "M. Liga de Campeones 8",
+	"names": "\"M. Liga de Campeones 8\"",
+	"number": 0,
+	"channels": [
+		"95b346a6e68113a0654af3b5d64326dd"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

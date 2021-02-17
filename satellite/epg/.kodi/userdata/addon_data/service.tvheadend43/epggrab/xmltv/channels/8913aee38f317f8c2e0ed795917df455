@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Arirang HD",
+	"name": "Arirang HD",
+	"names": "\"Arirang HD\"",
+	"number": 0,
+	"channels": [
+		"841e332b3c03be16af42a1806f29a123"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

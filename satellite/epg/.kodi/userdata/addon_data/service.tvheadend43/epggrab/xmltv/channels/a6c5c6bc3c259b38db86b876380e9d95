@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Drama HD",
+	"name": "M. Drama HD",
+	"names": "\"M. Drama HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/CPCOLE.png",
+	"channels": [
+		"1d63a5e8ec692f9073abefdc3c4d9f0e"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

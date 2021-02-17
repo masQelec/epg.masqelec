@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Disney JR",
+	"name": "Disney JR",
+	"names": "\"Disney JR\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/PLAYDC.png",
+	"channels": [
+		"9753782bef4506b1df918c0030ad828f"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

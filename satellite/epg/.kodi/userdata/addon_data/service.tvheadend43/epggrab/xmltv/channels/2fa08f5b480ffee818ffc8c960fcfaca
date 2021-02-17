@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Mezzo Live HD",
+	"name": "Mezzo Live HD",
+	"names": "\"Mezzo Live HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/MEZOHD.png",
+	"channels": [
+		"5fd79560fb7d9cd5b71fdb117b6edf3c"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

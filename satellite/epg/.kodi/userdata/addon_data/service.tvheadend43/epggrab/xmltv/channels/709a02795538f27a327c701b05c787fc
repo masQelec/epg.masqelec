@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Hollywood",
+	"name": "Hollywood",
+	"names": "\"Hollywood\"",
+	"number": 0,
+	"channels": [
+		"a8ea9e04e4da74ceeea08a8161364540"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

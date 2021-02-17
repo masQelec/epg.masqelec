@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Cuatro",
+	"name": "Cuatro",
+	"names": "\"Cuatro\"",
+	"number": 0,
+	"channels": [
+		"a77c09f92d1833421402331471b4d65b"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

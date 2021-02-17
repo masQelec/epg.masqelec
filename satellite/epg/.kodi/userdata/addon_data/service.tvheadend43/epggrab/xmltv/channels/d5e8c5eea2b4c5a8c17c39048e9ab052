@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Bloomberg Europe TV",
+	"name": "Bloomberg Europe TV",
+	"names": "\"Bloomberg Europe TV\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/BL.png",
+	"channels": [
+		"fb8645e9a85b0389d13f1e6ca776ee94"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

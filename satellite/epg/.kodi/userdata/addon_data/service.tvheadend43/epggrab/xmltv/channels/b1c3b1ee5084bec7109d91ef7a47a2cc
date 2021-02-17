@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Classica",
+	"name": "Classica",
+	"names": "\"Classica\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/CLASSD.png",
+	"channels": [
+		"5429569e355ddb8ab8f3998a8a535cf7"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

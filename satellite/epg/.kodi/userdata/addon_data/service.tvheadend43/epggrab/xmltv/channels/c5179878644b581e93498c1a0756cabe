@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "DAZN 2",
+	"name": "DAZN 2",
+	"names": "\"DAZN 2\"",
+	"number": 0,
+	"channels": [
+		"9ea8de9ead3ded30db1ae924254ffcba"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

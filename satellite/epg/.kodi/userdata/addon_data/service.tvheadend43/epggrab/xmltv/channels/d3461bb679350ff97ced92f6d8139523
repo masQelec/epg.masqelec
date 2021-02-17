@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Viajar",
+	"name": "Viajar",
+	"names": "\"Viajar\"",
+	"number": 0,
+	"channels": [
+		"db5890871e24d9fce80accb490a33dd9"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

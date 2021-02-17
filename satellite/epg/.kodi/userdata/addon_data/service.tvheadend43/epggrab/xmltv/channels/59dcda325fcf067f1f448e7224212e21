@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "TV5MONDE Europe HD",
+	"name": "TV5MONDE Europe HD",
+	"names": "\"TV5MONDE Europe HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/TV5.png",
+	"channels": [
+		"274d6c4fc863b4effb9f6ecde8c88079"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

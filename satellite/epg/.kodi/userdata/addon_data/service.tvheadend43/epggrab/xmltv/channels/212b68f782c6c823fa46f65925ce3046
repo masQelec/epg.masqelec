@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Seriesmanía",
+	"name": "M. Seriesmanía",
+	"names": "\"M. Seriesmanía\"",
+	"number": 0,
+	"channels": [
+		"f5c9dd6c3f49ab2af93f31b10471905e"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

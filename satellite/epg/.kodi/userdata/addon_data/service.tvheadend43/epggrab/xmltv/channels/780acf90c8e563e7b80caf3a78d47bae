@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Fórmula 1 2020",
+	"name": "M. Fórmula 1 2020",
+	"names": "\"M. Fórmula 1 2020\"",
+	"number": 0,
+	"channels": [
+		"e5350e216ff913be97d9a4e4b106a008"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

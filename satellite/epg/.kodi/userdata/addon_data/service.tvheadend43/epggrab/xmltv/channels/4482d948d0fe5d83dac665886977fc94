@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Deportes 3",
+	"name": "M. Deportes 3",
+	"names": "\"M. Deportes 3\"",
+	"number": 0,
+	"channels": [
+		"ea696a7fad1f9663e49d98432a26b618"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

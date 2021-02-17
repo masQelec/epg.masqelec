@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Telecinco HD",
+	"name": "Telecinco HD",
+	"names": "\"Telecinco HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/T5.png",
+	"channels": [
+		"ee208decb3cb32c363c23678065417bf"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

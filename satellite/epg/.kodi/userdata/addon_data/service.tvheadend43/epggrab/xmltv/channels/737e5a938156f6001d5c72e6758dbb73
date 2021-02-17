@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Nat Geo HD",
+	"name": "Nat Geo HD",
+	"names": "\"Nat Geo HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/NATGEO.png",
+	"channels": [
+		"1f4e02be8e1a4e10316a527baa3ca28d"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

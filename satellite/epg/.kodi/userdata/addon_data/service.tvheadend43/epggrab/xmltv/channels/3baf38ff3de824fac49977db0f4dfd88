@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. CineDoc&amp;Roll",
+	"name": "M. CineDoc&Roll",
+	"names": "\"M. CineDoc&Roll\"",
+	"number": 0,
+	"channels": [
+		"80f7a6e6f7b7f3df784a9f7c558b91d9"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

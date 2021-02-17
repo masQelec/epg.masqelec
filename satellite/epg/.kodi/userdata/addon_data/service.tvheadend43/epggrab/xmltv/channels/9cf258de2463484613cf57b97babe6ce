@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "AXN",
+	"name": "AXN",
+	"names": "\"AXN\"",
+	"number": 0,
+	"channels": [
+		"eb43b5675fd03a821fcdf132344209bc"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

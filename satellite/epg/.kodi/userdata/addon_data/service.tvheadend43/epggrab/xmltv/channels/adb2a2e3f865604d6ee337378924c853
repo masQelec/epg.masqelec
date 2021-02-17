@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Caza y Pesca HD",
+	"name": "Caza y Pesca HD",
+	"names": "\"Caza y Pesca HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png",
+	"channels": [
+		"4550a9800f94b79ba9e9ab7504caa789"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

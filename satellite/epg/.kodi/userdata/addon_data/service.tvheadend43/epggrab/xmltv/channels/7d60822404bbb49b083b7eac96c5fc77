@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Paramount Network",
+	"name": "Paramount Network",
+	"names": "\"Paramount Network\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/PARCH.png",
+	"channels": [
+		"1c2625c162bf0077b79e4a0bc58aad36"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

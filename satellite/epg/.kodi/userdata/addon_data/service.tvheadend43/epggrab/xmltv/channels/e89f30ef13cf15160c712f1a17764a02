@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Aragón TV Int",
+	"name": "Aragón TV Int",
+	"names": "\"Aragón TV Int\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/ARAGON.png",
+	"channels": [
+		"b19a246e025cd7214a7cfce66820433c"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

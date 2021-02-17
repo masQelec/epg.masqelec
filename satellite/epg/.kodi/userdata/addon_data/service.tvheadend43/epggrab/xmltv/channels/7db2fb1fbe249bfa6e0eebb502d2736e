@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Canal Cocina",
+	"name": "Canal Cocina",
+	"names": "\"Canal Cocina\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/CACOC.png",
+	"channels": [
+		"7ee58a0b509ca5a4690da735b62bbbc8"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

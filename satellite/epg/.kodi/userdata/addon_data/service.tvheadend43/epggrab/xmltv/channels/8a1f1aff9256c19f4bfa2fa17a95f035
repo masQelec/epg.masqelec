@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Deportes 6",
+	"name": "M. Deportes 6",
+	"names": "\"M. Deportes 6\"",
+	"number": 0,
+	"channels": [
+		"f92df87ed563129f7e9028bb3ddbec95"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

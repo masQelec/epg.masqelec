@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Euronews French SD",
+	"name": "Euronews French SD",
+	"names": "\"Euronews French SD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/ENW.png",
+	"channels": [
+		"155a8f031248cdba047ff2bd40a52d62"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

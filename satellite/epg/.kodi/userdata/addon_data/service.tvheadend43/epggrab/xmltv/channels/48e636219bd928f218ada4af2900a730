@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Alquiler HD",
+	"name": "Alquiler HD",
+	"names": "\"Alquiler HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/HDTQ10.png",
+	"channels": [
+		"3f03add05f771d07d967a5f6d45645d0"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

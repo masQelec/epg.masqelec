@@ -1,0 +1,21 @@
+{
+	"enabled": true,
+	"name": "Cuatro HD",
+	"number": 4,
+	"icon": "picon://1_0_19_7535_426_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": 1,
+	"services": [
+		"1ec867ef772ece306891777386b16add"
+	],
+	"tags": [
+		"fba5f67bebb84a3bf7924bca7292b730",
+		"ac6da31b4882740649cd13bc94f96b1c",
+		"8e06542863d3606f8a583e43c73580c2"
+	],
+	"bouquet": ""
+}
+NormandyEPG

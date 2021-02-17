@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Eurosport 1 HD",
+	"name": "Eurosport 1 HD",
+	"names": "\"Eurosport 1 HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/ESP.png",
+	"channels": [
+		"60af897a4eb139379abd5577e96d8945"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

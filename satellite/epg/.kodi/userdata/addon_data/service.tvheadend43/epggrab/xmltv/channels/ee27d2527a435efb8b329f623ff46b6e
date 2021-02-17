@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "La 2",
+	"name": "La 2",
+	"names": "\"La 2\"",
+	"number": 0,
+	"channels": [
+		"0456bd74ee9a6a5af5e02fecd34301bf"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

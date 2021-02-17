@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "TNT",
+	"name": "TNT",
+	"names": "\"TNT\"",
+	"number": 0,
+	"channels": [
+		"c9cc50d7cbd800aeac143feb50c8e365"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

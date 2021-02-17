@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Barça TV",
+	"name": "Barça TV",
+	"names": "\"Barça TV\"",
+	"number": 0,
+	"channels": [
+		"507c168f516eb26642e6742bc2f6b280"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

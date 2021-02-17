@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Nat Geo Wild HD",
+	"name": "Nat Geo Wild HD",
+	"names": "\"Nat Geo Wild HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/NATGW.png",
+	"channels": [
+		"53f80872c4bbbce6d702f95649018902"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

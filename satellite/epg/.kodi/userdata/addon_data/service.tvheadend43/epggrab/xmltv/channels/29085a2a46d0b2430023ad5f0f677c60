@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "laSexta",
+	"name": "laSexta",
+	"names": "\"laSexta\"",
+	"number": 0,
+	"channels": [
+		"d17bdbdcaf45300b5150bdfc1b0057d2"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

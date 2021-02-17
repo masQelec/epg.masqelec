@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "BeMad",
+	"name": "BeMad",
+	"names": "\"BeMad\"",
+	"number": 0,
+	"channels": [
+		"ee3abe8cb926ef076b84d92a738f7152"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

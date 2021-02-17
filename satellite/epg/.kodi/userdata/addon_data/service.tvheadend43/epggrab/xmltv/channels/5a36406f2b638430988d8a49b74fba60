@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "La 7",
+	"name": "La 7",
+	"names": "\"La 7\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/CYLTV.png",
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

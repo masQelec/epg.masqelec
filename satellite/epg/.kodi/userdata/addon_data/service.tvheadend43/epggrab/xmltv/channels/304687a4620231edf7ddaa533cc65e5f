@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Deportes 1 HD",
+	"name": "M. Deportes 1 HD",
+	"names": "\"M. Deportes 1 HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/ARTHUR.png",
+	"channels": [
+		"32bace577bd04709bba3bc8ea60c4989"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

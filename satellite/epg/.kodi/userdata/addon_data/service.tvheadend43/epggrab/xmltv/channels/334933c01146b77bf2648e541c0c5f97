@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Portada",
+	"name": "Portada",
+	"names": "\"Portada\"",
+	"number": 0,
+	"channels": [
+		"424c61821a961a14f9f36dbc576e9564"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

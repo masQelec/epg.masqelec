@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "MTV España",
+	"name": "MTV España",
+	"names": "\"MTV España\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/MTV.png",
+	"channels": [
+		"c3f9e2ea2b824edd2f99bcabaabada80"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

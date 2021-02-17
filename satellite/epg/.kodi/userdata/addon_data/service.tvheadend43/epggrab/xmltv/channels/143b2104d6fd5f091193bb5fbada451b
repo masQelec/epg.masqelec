@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. LaLiga 3 HD",
+	"name": "M. LaLiga 3 HD",
+	"names": "\"M. LaLiga 3 HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG3.png",
+	"channels": [
+		"541ade8c1862804bcc5b7b1861caf5db"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

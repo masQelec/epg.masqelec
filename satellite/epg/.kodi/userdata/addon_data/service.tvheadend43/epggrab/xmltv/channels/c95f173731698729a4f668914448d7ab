@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Nick JR",
+	"name": "Nick JR",
+	"names": "\"Nick JR\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/NICKJR.png",
+	"channels": [
+		"646f6f26183c84acbcd3df622e89573a"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "COSMO",
+	"name": "COSMO",
+	"names": "\"COSMO\"",
+	"number": 0,
+	"channels": [
+		"0fd3b7475542e91ac4be5a377af2541a"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

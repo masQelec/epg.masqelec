@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "GOL",
+	"name": "GOL",
+	"names": "\"GOL\"",
+	"number": 0,
+	"channels": [
+		"2236ab741d8ad00528518d99cd3a135a"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "RT Esp HD",
+	"name": "RT Esp HD",
+	"names": "\"RT Esp HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/RTESP.png",
+	"channels": [
+		"204b5f2127a1c4238c45793d2bff8dae"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

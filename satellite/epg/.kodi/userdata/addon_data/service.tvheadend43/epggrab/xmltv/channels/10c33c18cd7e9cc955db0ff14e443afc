@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Toros HD",
+	"name": "Toros HD",
+	"names": "\"Toros HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/CFERIA.png",
+	"channels": [
+		"ea30bd807f7685ae622795d565133e8a"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

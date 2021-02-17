@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Extremadura SAT",
+	"name": "Extremadura SAT",
+	"names": "\"Extremadura SAT\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/EXTREM.png",
+	"channels": [
+		"4cde39e03a3cb11e32b0d2219a62d25f"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

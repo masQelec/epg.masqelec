@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Estrenos HD",
+	"name": "M. Estrenos HD",
+	"names": "\"M. Estrenos HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/MV1.png",
+	"channels": [
+		"ce31dbcbcd6793f8610b15d84e2be002"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

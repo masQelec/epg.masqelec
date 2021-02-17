@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "#Vamos HD",
+	"name": "#Vamos HD",
+	"names": "\"#Vamos HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/VAMOSD.png",
+	"channels": [
+		"0ef556d0b977420fece16023fa8920af"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

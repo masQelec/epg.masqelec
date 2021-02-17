@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "DAZN 1 HD",
+	"name": "DAZN 1 HD",
+	"names": "\"DAZN 1 HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/M1SD.png",
+	"channels": [
+		"ff81860bd428f51f2f63fac61a81f7ac"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

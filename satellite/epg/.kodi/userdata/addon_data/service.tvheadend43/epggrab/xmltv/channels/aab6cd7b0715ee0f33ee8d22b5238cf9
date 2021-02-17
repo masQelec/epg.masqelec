@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Comedy Central HD",
+	"name": "Comedy Central HD",
+	"names": "\"Comedy Central HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/PCM.png",
+	"channels": [
+		"ab92c98dc467c842475866ab4319d4e6"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

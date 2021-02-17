@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "#Vamos BAR",
+	"name": "#Vamos BAR",
+	"names": "\"#Vamos BAR\"",
+	"number": 0,
+	"channels": [
+		"e72329a96cf52e51548494f27ae21ead"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

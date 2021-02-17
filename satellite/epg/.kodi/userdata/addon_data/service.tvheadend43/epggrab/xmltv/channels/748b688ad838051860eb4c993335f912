@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Realmadrid TV",
+	"name": "Realmadrid TV",
+	"names": "\"Realmadrid TV\"",
+	"number": 0,
+	"channels": [
+		"88d68b2009df65fbf49f9f5b5311d1ff"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

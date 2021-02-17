@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "CNBC HD",
+	"name": "CNBC HD",
+	"names": "\"CNBC HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/NBC.png",
+	"channels": [
+		"5fe63ca94fe9c9b21a39cf4333fb34bd"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

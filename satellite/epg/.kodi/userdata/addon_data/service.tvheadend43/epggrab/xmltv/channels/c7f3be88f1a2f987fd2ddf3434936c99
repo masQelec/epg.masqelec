@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Disney Channel HD",
+	"name": "Disney Channel HD",
+	"names": "\"Disney Channel HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/DCH.png",
+	"channels": [
+		"73f9570d3bf6e4661ee95b0b5a840021"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

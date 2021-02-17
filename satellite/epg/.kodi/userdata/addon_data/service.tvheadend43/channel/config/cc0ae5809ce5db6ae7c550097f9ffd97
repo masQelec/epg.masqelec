@@ -1,0 +1,23 @@
+{
+	"enabled": true,
+	"name": "Disney+",
+	"number": 32,
+	"icon": "picon://1_0_1_7607_408_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": 1,
+	"services": [
+		"74c01d0424b4560b8eecdce3493d736e"
+	],
+	"tags": [
+		"93f534a6d026648fad30caff3baf9f7d",
+		"ea26e288f00bc3e5adfd439667cc7356",
+		"eb9b445a53e8e1211bfe26b41897b69b",
+		"ac6da31b4882740649cd13bc94f96b1c",
+		"8e06542863d3606f8a583e43c73580c2"
+	],
+	"bouquet": ""
+}
+NormandyEPG

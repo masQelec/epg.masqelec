@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "TNT HD",
+	"name": "TNT HD",
+	"names": "\"TNT HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/TNT.png",
+	"channels": [
+		"13c631abfa4b219f223efd2ede026e23"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Teledeporte",
+	"name": "Teledeporte",
+	"names": "\"Teledeporte\"",
+	"number": 0,
+	"channels": [
+		"a8fb0e84622bc8ca7feda63d7fca3307"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

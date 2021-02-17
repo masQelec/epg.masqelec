@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Fórmula 1 2020 HD",
+	"name": "M. Fórmula 1 2020 HD",
+	"names": "\"M. Fórmula 1 2020 HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png",
+	"channels": [
+		"0926cbe8e1e83225d0a6376a7778be62"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

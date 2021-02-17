@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Eurosport 2",
+	"name": "Eurosport 2",
+	"names": "\"Eurosport 2\"",
+	"number": 0,
+	"channels": [
+		"332aa64b8597d6bd9ef3e483d55ea47a"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

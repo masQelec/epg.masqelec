@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "ORF SPORT+ HD",
+	"name": "ORF SPORT+ HD",
+	"names": "\"ORF SPORT+ HD\"",
+	"number": 0,
+	"channels": [
+		"4435e6362393ed30e04d9aff2a188c2a"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

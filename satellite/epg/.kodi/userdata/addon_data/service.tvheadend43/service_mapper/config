@@ -1,6 +1,6 @@
 {
 	"check_availability": false,
-	"encrypted": true,
+	"encrypted": false,
 	"merge_same_name": false,
 	"merge_same_name_fuzzy": false,
 	"tidy_channel_name": false,

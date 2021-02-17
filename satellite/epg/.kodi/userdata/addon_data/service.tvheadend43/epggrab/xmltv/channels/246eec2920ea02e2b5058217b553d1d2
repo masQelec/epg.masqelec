@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "SYFY HD",
+	"name": "SYFY HD",
+	"names": "\"SYFY HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/SCI-FI.png",
+	"channels": [
+		"2c227cde80ebe920ee5d91bd8cc46355"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

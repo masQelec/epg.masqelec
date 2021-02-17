@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "DAZN 2 HD",
+	"name": "DAZN 2 HD",
+	"names": "\"DAZN 2 HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/M2SD.png",
+	"channels": [
+		"ece72abc38af684cee3934458da93dc6"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

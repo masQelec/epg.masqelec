@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Odisea",
+	"name": "Odisea",
+	"names": "\"Odisea\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/ODISEA.png",
+	"channels": [
+		"2e81aa2a1701c5fbde8affecee806791"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

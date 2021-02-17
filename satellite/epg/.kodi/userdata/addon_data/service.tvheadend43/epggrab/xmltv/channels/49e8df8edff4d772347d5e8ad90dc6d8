@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "AXN White",
+	"name": "AXN White",
+	"names": "\"AXN White\"",
+	"number": 0,
+	"channels": [
+		"364038b5e76e4437faecd7aa8ae85480"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

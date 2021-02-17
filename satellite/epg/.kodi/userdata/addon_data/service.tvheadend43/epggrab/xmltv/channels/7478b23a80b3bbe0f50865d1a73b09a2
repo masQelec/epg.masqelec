@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Golf HD",
+	"name": "M. Golf HD",
+	"names": "\"M. Golf HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/GOLF%2B.png",
+	"channels": [
+		"cbf98e1ea1ffc5d4f025563fd7609759"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

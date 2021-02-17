@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "FOX Life HD",
+	"name": "FOX Life HD",
+	"names": "\"FOX Life HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/FOXCR.png",
+	"channels": [
+		"ce4a51619bf5b95e20d9714814065029"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

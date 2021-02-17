@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Viajar HD",
+	"name": "Viajar HD",
+	"names": "\"Viajar HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/VJR.png",
+	"channels": [
+		"e18d21eebf7ebf786833c9ad26c1527e"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "FOX News",
+	"name": "FOX News",
+	"names": "\"FOX News\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/FOXNWS.png",
+	"channels": [
+		"a8f1d3edb7be42b2f21f75e2d0a80325"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

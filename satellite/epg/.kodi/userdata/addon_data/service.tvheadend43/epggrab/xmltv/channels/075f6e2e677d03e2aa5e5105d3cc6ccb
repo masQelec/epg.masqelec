@@ -1,0 +1,13 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Super3#33",
+	"name": "Super3/33",
+	"names": "\"Super3/33\"",
+	"number": 0,
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

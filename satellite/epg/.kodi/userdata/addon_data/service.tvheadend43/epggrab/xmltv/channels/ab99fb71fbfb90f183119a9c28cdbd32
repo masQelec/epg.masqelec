@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Sky Sport Bundesliga 2 HD",
+	"name": "Sky Sport Bundesliga 2 HD",
+	"names": "\"Sky Sport Bundesliga 2 HD\"",
+	"number": 0,
+	"channels": [
+		"59523853fe8147492bc674b78f8af35e"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

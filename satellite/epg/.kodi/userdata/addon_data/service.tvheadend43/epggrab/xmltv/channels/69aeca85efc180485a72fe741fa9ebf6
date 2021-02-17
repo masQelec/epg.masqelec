@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Alquiler 3",
+	"name": "Alquiler 3",
+	"names": "\"Alquiler 3\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/TQ3.png",
+	"channels": [
+		"eb23f2f98f5096de704440995dcff159"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

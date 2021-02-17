@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "FDF",
+	"name": "FDF",
+	"names": "\"FDF\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/FDFIC.png",
+	"channels": [
+		"d30fdeb72d9b9454461e76d379488da7"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

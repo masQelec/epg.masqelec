@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "FOX",
+	"name": "FOX",
+	"names": "\"FOX\"",
+	"number": 0,
+	"channels": [
+		"38abc99d6877b3a14498cf9d1f25eee0"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

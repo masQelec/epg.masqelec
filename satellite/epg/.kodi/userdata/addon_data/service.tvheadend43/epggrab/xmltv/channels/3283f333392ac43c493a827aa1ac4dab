@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "MTV HD",
+	"name": "MTV HD",
+	"names": "\"MTV HD\"",
+	"number": 0,
+	"channels": [
+		"d8f392909bd53a35988ed0e1eb21b3fc"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

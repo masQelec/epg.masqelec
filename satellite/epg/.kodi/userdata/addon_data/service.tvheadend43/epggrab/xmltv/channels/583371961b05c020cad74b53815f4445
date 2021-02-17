@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Alquiler 5",
+	"name": "Alquiler 5",
+	"names": "\"Alquiler 5\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/TQ5.png",
+	"channels": [
+		"591256520d0eb3353900101589c07048"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Toros",
+	"name": "Toros",
+	"names": "\"Toros\"",
+	"number": 0,
+	"channels": [
+		"bda08a124a747d8f171a71dd68110226"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

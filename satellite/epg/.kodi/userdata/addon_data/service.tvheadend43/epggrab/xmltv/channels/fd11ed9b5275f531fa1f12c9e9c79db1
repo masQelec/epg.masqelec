@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Nat Geo",
+	"name": "Nat Geo",
+	"names": "\"Nat Geo\"",
+	"number": 0,
+	"channels": [
+		"7a5eed1ae7ca02c06b95e8937a5d3407"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

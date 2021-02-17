@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Comedy Central",
+	"name": "Comedy Central",
+	"names": "\"Comedy Central\"",
+	"number": 0,
+	"channels": [
+		"314f9789cf8d19a1174826fd4996be6d"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Energy",
+	"name": "Energy",
+	"names": "\"Energy\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/ENERGY.png",
+	"channels": [
+		"9ddb468c9ef82015b6416ea165a57aa3"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

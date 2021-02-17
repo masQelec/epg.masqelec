@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. LaLiga",
+	"name": "M. LaLiga",
+	"names": "\"M. LaLiga\"",
+	"number": 0,
+	"channels": [
+		"c2858fde659904f6d417eba001d3c675"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

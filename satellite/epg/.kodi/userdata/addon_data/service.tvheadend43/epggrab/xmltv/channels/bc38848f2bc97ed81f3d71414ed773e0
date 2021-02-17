@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Acción HD",
+	"name": "M. Acción HD",
+	"names": "\"M. Acción HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/CPACCI.png",
+	"channels": [
+		"2fc6f2628c77bbc7064e213e3a7028ef"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

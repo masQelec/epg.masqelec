@@ -1,7 +1,7 @@
 {
 	"orbital_pos": "19.2E",
 	"enabled": true,
-	"networkname": "Red DVB-S",
+	"networkname": "DVB-S",
 	"pnetworkname": "ASTRA 1",
 	"nid": 0,
 	"autodiscovery": 2,

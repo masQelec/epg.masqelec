@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Drama",
+	"name": "M. Drama",
+	"names": "\"M. Drama\"",
+	"number": 0,
+	"channels": [
+		"ad33c380327512f930ce9c61edeee3a2"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

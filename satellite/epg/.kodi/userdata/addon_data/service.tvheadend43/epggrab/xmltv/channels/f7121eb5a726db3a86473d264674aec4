@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. LaLiga 7",
+	"name": "M. LaLiga 7",
+	"names": "\"M. LaLiga 7\"",
+	"number": 0,
+	"channels": [
+		"87028bb9201cc2ee48018d7918fec254"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

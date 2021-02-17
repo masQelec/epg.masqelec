@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Divinity",
+	"name": "Divinity",
+	"names": "\"Divinity\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/DIVINI.png",
+	"channels": [
+		"c52a185331a7fc4b47fd12c6917fb77a"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

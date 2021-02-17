@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Sky Sport 3 HD",
+	"name": "Sky Sport 3 HD",
+	"names": "\"Sky Sport 3 HD\"",
+	"number": 0,
+	"channels": [
+		"d702d3b80486ef484987aff0fbdccb80"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

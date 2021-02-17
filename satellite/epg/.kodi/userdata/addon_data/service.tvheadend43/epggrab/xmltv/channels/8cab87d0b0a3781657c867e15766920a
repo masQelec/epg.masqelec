@@ -1,0 +1,13 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Sky Sport Austria 3 HD",
+	"name": "Sky Sport Austria 3 HD",
+	"names": "\"Sky Sport Austria 3 HD\"",
+	"number": 0,
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -15,7 +15,7 @@
 	"source": "dvb-bouquet://dvbs,19.2E,0422,0021",
 	"services": {
 	},
-	"services_seen": 204,
+	"services_seen": 250,
 	"comment": "10847V in Red DVB-S",
 	"lcn_off": 0
 }

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "DAZN 1",
+	"name": "DAZN 1",
+	"names": "\"DAZN 1\"",
+	"number": 0,
+	"channels": [
+		"c0c33a30da6985bf2d3c9328202d6f56"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

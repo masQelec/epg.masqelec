@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Golf",
+	"name": "M. Golf",
+	"names": "\"M. Golf\"",
+	"number": 0,
+	"channels": [
+		"0b6f7447fe41c351d25bb2e4db01ce64"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

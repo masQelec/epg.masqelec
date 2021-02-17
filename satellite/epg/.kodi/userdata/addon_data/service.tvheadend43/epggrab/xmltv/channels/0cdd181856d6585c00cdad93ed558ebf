@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Antena 3 HD",
+	"name": "Antena 3 HD",
+	"names": "\"Antena 3 HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/A3.png",
+	"channels": [
+		"27d45468530767a51be5c1ece7e8edbb"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

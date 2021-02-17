@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Boing",
+	"name": "Boing",
+	"names": "\"Boing\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/BOING.png",
+	"channels": [
+		"939b9db136ddcbaf983b20dfcb535fbf"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

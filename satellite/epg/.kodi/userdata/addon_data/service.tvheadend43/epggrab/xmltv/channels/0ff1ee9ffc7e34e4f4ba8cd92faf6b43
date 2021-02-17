@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. CineDoc&amp;Roll HD",
+	"name": "M. CineDoc&Roll HD",
+	"names": "\"M. CineDoc&Roll HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/CPXTRA.png",
+	"channels": [
+		"17b89109dc83b2daf10b082ee6ceae18"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

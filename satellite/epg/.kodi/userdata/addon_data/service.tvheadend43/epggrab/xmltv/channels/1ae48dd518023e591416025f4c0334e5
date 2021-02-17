@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "LaLiga TV BAR HD",
+	"name": "LaLiga TV BAR HD",
+	"names": "\"LaLiga TV BAR HD\"",
+	"number": 0,
+	"icon": "http://www.movistarplus.es/recorte/m-NEO/guiapc/LIGBAR.png",
+	"channels": [
+		"b78e01cc8604ebc125fa9f0805c3318d"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

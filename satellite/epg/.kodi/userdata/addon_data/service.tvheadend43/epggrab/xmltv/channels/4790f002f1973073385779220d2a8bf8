@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Fox Life",
+	"name": "Fox Life",
+	"names": "\"Fox Life\"",
+	"number": 0,
+	"channels": [
+		"24d50f3b224bfe30ebb2b7ec1aba718c"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

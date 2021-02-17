@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Liga de Campeones 6",
+	"name": "M. Liga de Campeones 6",
+	"names": "\"M. Liga de Campeones 6\"",
+	"number": 0,
+	"channels": [
+		"5d869881e371be8d9d124f9274cb39de"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

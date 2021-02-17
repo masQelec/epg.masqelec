@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "M. Deportes 2",
+	"name": "M. Deportes 2",
+	"names": "\"M. Deportes 2\"",
+	"number": 0,
+	"channels": [
+		"f754b78a02126018ad3c60be7925e62b"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

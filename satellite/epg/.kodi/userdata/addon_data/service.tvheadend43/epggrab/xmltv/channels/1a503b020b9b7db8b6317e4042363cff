@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "Clan",
+	"name": "Clan",
+	"names": "\"Clan\"",
+	"number": 0,
+	"channels": [
+		"a60d6fbc0b341f027b5dff92566c7add"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

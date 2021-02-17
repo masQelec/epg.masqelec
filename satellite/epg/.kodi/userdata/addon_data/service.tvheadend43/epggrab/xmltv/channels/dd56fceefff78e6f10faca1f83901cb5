@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/storage/.kodi/addons/service.tvheadend43/bin/tv_grab_NormandyEPGmv",
+	"id": "TCM",
+	"name": "TCM",
+	"names": "\"TCM\"",
+	"number": 0,
+	"channels": [
+		"afe0ba1ea66f02f981ba0edd95c75e1e"
+	],
+	"only_one": false,
+	"update": [
+	]
+}
