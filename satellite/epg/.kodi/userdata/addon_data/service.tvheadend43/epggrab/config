@@ -4,7 +4,7 @@
 	"channel_reicon": false,
 	"epgdb_periodicsave": 0,
 	"epgdb_saveafterimport": false,
-	"cron": "# Default config (00:04 and 12:04 everyday)\n4 */12 * * *",
+	"cron": "1 */3 * * *",
 	"int_initial": true,
 	"ota_initial": true,
 	"ota_cron": "# Default config (02:04 and 14:04 everyday)\n4 2 * * *\n4 14 * * *",
@@ -114,7 +114,7 @@
 			"scrape_summary": false,
 			"name": "Bulsatcom: Bula 39E",
 			"type": "Over-the-air",
-			"enabled": false,
+			"enabled": true,
 			"priority": 5
 		},
 		"viasat_baltic": {
