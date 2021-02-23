@@ -16,7 +16,7 @@ tar -xzvf /storage/epg.tar.gz
 
 kodi-send --action="Notification(AVISO,Canales Actualizados,10000)"
 
-rm -f /storage/epg.tar.gz
+#rm -f /storage/epg.tar.gz
 
 systemctl restart service.tvheadend43
 
