@@ -1,7 +1,7 @@
 {
 	"enabled": true,
 	"name": "DAZN 3",
-	"number": 983,
+	"number": 583,
 	"icon": "picon://1_0_1_77BE_40A_1_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,

@@ -1,7 +1,7 @@
 {
 	"enabled": true,
 	"name": "Nat Geo Wild",
-	"number": 871,
+	"number": 471,
 	"icon": "picon://1_0_1_7472_3F0_1_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,

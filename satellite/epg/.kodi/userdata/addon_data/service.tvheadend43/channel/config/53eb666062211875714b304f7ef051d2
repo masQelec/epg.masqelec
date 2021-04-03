@@ -1,7 +1,7 @@
 {
 	"enabled": true,
 	"name": "Sky Sport Bundesliga 3 HD",
-	"number": 503,
+	"number": 205,
 	"icon": "picon://1_0_19_115_D_85_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,
@@ -12,8 +12,8 @@
 		"255d1044eb84c2d57a0dfab8d21074da"
 	],
 	"tags": [
-		"fcc150b1f081f08ad2da9744f3fe3c2e",
-		"ac6da31b4882740649cd13bc94f96b1c"
+		"ac6da31b4882740649cd13bc94f96b1c",
+		"fcc150b1f081f08ad2da9744f3fe3c2e"
 	],
 	"bouquet": ""
 }

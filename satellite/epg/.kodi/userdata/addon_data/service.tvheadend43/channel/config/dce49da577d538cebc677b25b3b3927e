@@ -1,7 +1,7 @@
 {
 	"enabled": true,
 	"name": "Disney Channel",
-	"number": 896,
+	"number": 496,
 	"icon": "picon://1_0_1_76C3_40E_1_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,

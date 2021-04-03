@@ -1,7 +1,7 @@
 {
 	"enabled": true,
 	"name": "Hollywood",
-	"number": 838,
+	"number": 438,
 	"icon": "picon://1_0_1_77C1_40A_1_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,

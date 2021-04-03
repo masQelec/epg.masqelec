@@ -1,7 +1,7 @@
 {
 	"enabled": true,
 	"name": "Nat Geo",
-	"number": 870,
+	"number": 470,
 	"icon": "picon://1_0_1_778D_424_1_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,

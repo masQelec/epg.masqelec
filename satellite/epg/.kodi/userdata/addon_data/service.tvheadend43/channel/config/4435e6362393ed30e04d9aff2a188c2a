@@ -1,6 +1,6 @@
 {
 	"enabled": true,
-	"number": 536,
+	"number": 231,
 	"icon": "picon://1_0_19_33FD_3ED_1_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,
@@ -11,8 +11,8 @@
 		"59a5621e510d8f57b5e7f4dafb3012f2"
 	],
 	"tags": [
-		"fcc150b1f081f08ad2da9744f3fe3c2e",
-		"ac6da31b4882740649cd13bc94f96b1c"
+		"ac6da31b4882740649cd13bc94f96b1c",
+		"fcc150b1f081f08ad2da9744f3fe3c2e"
 	],
 	"bouquet": ""
 }

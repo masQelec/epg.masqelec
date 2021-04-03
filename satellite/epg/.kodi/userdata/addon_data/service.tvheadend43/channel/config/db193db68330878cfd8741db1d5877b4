@@ -1,7 +1,7 @@
 {
 	"enabled": true,
 	"name": "La 1",
-	"number": 801,
+	"number": 401,
 	"icon": "picon://1_0_1_76C2_40E_1_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,

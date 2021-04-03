@@ -1,7 +1,7 @@
 {
 	"enabled": true,
 	"name": "Toros",
-	"number": 867,
+	"number": 467,
 	"icon": "picon://1_0_1_7570_412_1_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,

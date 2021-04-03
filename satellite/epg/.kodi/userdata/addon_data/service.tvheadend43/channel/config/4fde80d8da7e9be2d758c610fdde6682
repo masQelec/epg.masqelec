@@ -1,7 +1,7 @@
 {
 	"enabled": true,
 	"name": "Antena 3",
-	"number": 803,
+	"number": 403,
 	"icon": "picon://1_0_1_772C_416_1_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,

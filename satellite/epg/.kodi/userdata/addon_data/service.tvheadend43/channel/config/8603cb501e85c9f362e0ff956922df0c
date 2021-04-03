@@ -1,7 +1,7 @@
 {
 	"enabled": true,
 	"name": "M. Liga de Campeones",
-	"number": 850,
+	"number": 450,
 	"icon": "picon://1_0_1_757B_412_1_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,

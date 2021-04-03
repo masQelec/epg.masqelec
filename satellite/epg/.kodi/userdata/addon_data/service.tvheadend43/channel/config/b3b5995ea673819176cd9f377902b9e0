@@ -1,7 +1,7 @@
 {
 	"enabled": true,
 	"name": "M. Estrenos",
-	"number": 830,
+	"number": 430,
 	"icon": "picon://1_0_1_76C0_40E_1_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,

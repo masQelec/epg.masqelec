@@ -1,6 +1,6 @@
 {
 	"enabled": true,
-	"number": 991,
+	"number": 708,
 	"icon": "picon://1_0_1F_2_40B_1_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,
@@ -11,8 +11,8 @@
 		"d1043eb4de0a3f2b8fe74521979c8612"
 	],
 	"tags": [
-		"f946536b162c81be4a936f6c4c631b8a",
-		"ac6da31b4882740649cd13bc94f96b1c"
+		"ac6da31b4882740649cd13bc94f96b1c",
+		"f946536b162c81be4a936f6c4c631b8a"
 	],
 	"bouquet": ""
 }

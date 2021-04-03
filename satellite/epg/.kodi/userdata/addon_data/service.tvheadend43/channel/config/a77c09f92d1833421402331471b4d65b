@@ -1,7 +1,7 @@
 {
 	"enabled": true,
 	"name": "Cuatro",
-	"number": 804,
+	"number": 404,
 	"icon": "picon://1_0_1_7792_424_1_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,

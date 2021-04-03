@@ -1,19 +1,18 @@
 {
 	"enabled": true,
-	"number": 165,
-	"icon": "picon://1_0_1_7566_412_1_C00000_0_0_0.png",
+	"number": 213,
+	"icon": "picon://1_0_19_153_10_85_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,
 	"dvr_pre_time": 0,
 	"dvr_pst_time": 0,
 	"epg_running": 1,
 	"services": [
-		"604a5abcc0f3fc036ad68e7d6aee44ae"
+		"d4ee4973904a4f735cd9a5f97d8eec54"
 	],
 	"tags": [
-		"eb9b445a53e8e1211bfe26b41897b69b",
 		"ac6da31b4882740649cd13bc94f96b1c",
-		"8e06542863d3606f8a583e43c73580c2"
+		"fcc150b1f081f08ad2da9744f3fe3c2e"
 	],
 	"bouquet": ""
 }

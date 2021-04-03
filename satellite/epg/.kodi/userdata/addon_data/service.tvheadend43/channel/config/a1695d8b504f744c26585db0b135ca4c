@@ -1,7 +1,7 @@
 {
 	"enabled": true,
 	"name": "Calle 13",
-	"number": 817,
+	"number": 417,
 	"icon": "picon://1_0_1_7790_424_1_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,

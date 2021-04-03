@@ -1,7 +1,7 @@
 {
 	"enabled": true,
 	"name": "M. Deportes",
-	"number": 853,
+	"number": 453,
 	"icon": "picon://1_0_1_778F_424_1_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,

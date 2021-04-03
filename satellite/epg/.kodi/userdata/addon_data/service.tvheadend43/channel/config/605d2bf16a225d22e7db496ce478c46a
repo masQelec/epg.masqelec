@@ -1,7 +1,7 @@
 {
 	"enabled": true,
 	"name": "Eurosport 1 HD De",
-	"number": 541,
+	"number": 220,
 	"icon": "picon://1_0_19_30D6_413_1_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,
@@ -12,8 +12,8 @@
 		"990bee8c5d257efa1125ed079a5c8647"
 	],
 	"tags": [
-		"fcc150b1f081f08ad2da9744f3fe3c2e",
-		"ac6da31b4882740649cd13bc94f96b1c"
+		"ac6da31b4882740649cd13bc94f96b1c",
+		"fcc150b1f081f08ad2da9744f3fe3c2e"
 	],
 	"bouquet": ""
 }

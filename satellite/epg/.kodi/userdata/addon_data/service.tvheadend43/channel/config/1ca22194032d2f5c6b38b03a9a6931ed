@@ -1,7 +1,7 @@
 {
 	"enabled": true,
 	"name": "DAZN 4",
-	"number": 984,
+	"number": 584,
 	"icon": "picon://1_0_1_77C0_40A_1_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,

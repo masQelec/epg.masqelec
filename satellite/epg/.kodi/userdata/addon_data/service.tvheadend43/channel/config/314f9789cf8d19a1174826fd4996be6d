@@ -1,7 +1,7 @@
 {
 	"enabled": true,
 	"name": "Comedy Central",
-	"number": 816,
+	"number": 416,
 	"icon": "picon://1_0_1_76C8_40E_1_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,

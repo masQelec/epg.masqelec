@@ -1,7 +1,7 @@
 {
 	"enabled": true,
 	"name": "AXN White",
-	"number": 821,
+	"number": 421,
 	"icon": "picon://1_0_1_7471_3F0_1_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,

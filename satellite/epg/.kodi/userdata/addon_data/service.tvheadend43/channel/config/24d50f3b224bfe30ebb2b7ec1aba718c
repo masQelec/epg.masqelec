@@ -1,7 +1,7 @@
 {
 	"enabled": true,
 	"name": "FOX Life",
-	"number": 820,
+	"number": 420,
 	"icon": "picon://1_0_1_7468_3F0_1_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,

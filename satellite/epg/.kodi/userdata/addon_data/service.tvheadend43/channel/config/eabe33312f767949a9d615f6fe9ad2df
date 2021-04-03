@@ -1,6 +1,6 @@
 {
 	"enabled": true,
-	"number": 512,
+	"number": 208,
 	"icon": "picon://1_0_19_72_D_85_C00000_0_0_0.png",
 	"epgauto": true,
 	"epglimit": 0,
