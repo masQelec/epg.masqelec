@@ -1,0 +1,22 @@
+{
+	"enabled": true,
+	"name": "Alquiler X",
+	"number": 162,
+	"icon": "picon://1_0_1_7568_412_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": 1,
+	"remote_timeshift": false,
+	"services": [
+		"9219e9696b5c868d86b27b15ed164a21"
+	],
+	"tags": [
+		"ac6da31b4882740649cd13bc94f96b1c",
+		"8e06542863d3606f8a583e43c73580c2",
+		"8caf7d1977bdd462d148f4efd88386c5"
+	],
+	"bouquet": ""
+}
+NormandyEPG

@@ -1,0 +1,21 @@
+{
+	"enabled": true,
+	"name": "Euronews French SD",
+	"number": 116,
+	"icon": "picon://1_0_1_79F4_443_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": 1,
+	"remote_timeshift": false,
+	"services": [
+		"559e940d78f3df72a6dafe9723f217c6"
+	],
+	"tags": [
+		"59f4e5a8d34609d30ed8a29751ee36bb",
+		"ac6da31b4882740649cd13bc94f96b1c"
+	],
+	"bouquet": ""
+}
+NormandyEPG

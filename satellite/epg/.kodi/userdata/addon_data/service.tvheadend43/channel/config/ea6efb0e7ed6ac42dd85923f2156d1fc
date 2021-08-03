@@ -1,0 +1,22 @@
+{
+	"enabled": true,
+	"name": "Antena 3 HD",
+	"number": 3,
+	"icon": "picon://1_0_19_7534_426_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": 1,
+	"remote_timeshift": false,
+	"services": [
+		"b48fceb81d6782292c976f05c5d6641d"
+	],
+	"tags": [
+		"fba5f67bebb84a3bf7924bca7292b730",
+		"ac6da31b4882740649cd13bc94f96b1c",
+		"8e06542863d3606f8a583e43c73580c2"
+	],
+	"bouquet": ""
+}
+NormandyEPG

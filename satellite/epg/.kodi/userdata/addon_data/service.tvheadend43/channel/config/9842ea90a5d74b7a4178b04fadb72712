@@ -1,0 +1,20 @@
+{
+	"enabled": true,
+	"name": "Disney Channel",
+	"number": 496,
+	"icon": "picon://1_0_1_76C3_40E_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": 1,
+	"remote_timeshift": false,
+	"services": [
+		"f4466c162c3157ed3747b58d6f2b13b4"
+	],
+	"tags": [
+		"fa0254ffc9bdcc235a7ce86ec62b04b1"
+	],
+	"bouquet": ""
+}
+NormandyEPG

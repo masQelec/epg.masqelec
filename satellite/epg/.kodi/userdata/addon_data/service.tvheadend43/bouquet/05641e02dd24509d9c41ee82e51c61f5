@@ -15,7 +15,7 @@
 	"source": "dvb-bouquet://dvbs,19.2E,044A,C006",
 	"services": {
 	},
-	"services_seen": 238,
+	"services_seen": 34,
 	"comment": "12363V in DVB-S",
 	"lcn_off": 0
 }

@@ -1,0 +1,22 @@
+{
+	"enabled": true,
+	"name": "LaLiga TV BAR 1",
+	"number": 146,
+	"icon": "picon://1_0_1_76C5_40E_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": 1,
+	"remote_timeshift": false,
+	"services": [
+		"7ef102952e63066b4ba8612b629356db"
+	],
+	"tags": [
+		"fcc150b1f081f08ad2da9744f3fe3c2e",
+		"ac6da31b4882740649cd13bc94f96b1c",
+		"8e06542863d3606f8a583e43c73580c2"
+	],
+	"bouquet": ""
+}
+NormandyEPG
